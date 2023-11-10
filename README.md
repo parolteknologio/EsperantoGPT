@@ -1,6 +1,7 @@
 # EsperantoGPT
 ChatGPT assistant information files
 * https://chat.openai.com/g/g-D4jB3Ml4b-esperantogpt
+* https://openai.com/blog/introducing-gpts
 
 Plan:
 * create a structure to organize the files
