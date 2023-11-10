@@ -13,7 +13,7 @@ Plan:
 Feel free to join the disscussion and to improve the files! Ni ĉiam ĝojas pri helpantoj!
 
 # Instructions
-The [Instructions][(https://github.com/parolteknologio/EsperantoGPT/blob/main/Instructions.md) field defines the general behaviour of the Assistant.
+The [Instructions](https://github.com/parolteknologio/EsperantoGPT/blob/main/Instructions.md) field defines the general behaviour of the Assistant.
 
 * Todo: experiemtn with more knowledge here
 
