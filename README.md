@@ -6,7 +6,7 @@ More on curstom GPTs: https://openai.com/blog/introducing-gpts
 
 Plan:
 * create a structure to organize the files ✅
-* create first versions of the most important files
+* create first versions of the most important files 🚧
 * refine the information over time
 * become multilingual?
 
