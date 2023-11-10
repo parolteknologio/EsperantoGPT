@@ -2,7 +2,7 @@
 This is a project to create a custom Esperanto GPT for ChatGPT that has knowledge about Esperanto culture, is better at teaching Esperanto and can access specific resources such as the PIV.
 
 Test it here: https://chat.openai.com/g/g-D4jB3Ml4b-esperantogpt  
-More on cursom GPTs: https://openai.com/blog/introducing-gpts
+More on curstom GPTs: https://openai.com/blog/introducing-gpts
 
 Plan:
 * create a structure to organize the files ✅
@@ -15,12 +15,12 @@ Feel free to join the disscussion and to improve the files! Ni ĉiam ĝojas pri 
 # Knowledge
 For now this projects focusses on files about these knowledge fields:
 
-* Culture
-* History
-* Language
-* Learning
-* Sources
-* Technology
+* [Culture](https://github.com/parolteknologio/EsperantoGPT/blob/main/knowledge/Culture.md)
+* [History](https://github.com/parolteknologio/EsperantoGPT/blob/main/knowledge/History.md)
+* [Language](https://github.com/parolteknologio/EsperantoGPT/blob/main/knowledge/Language.md)
+* [Learning](https://github.com/parolteknologio/EsperantoGPT/blob/main/knowledge/Learning.md)
+* [Sources](https://github.com/parolteknologio/EsperantoGPT/blob/main/knowledge/Sources.md)
+* [Technology](https://github.com/parolteknologio/EsperantoGPT/blob/main/knowledge/Technology.md)
 
 # Actions:
 https://platform.openai.com/docs/actions/what-is-an-action
