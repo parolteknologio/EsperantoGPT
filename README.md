@@ -1,7 +1,8 @@
 # EsperantoGPT
-ChatGPT assistant information files
-* https://chat.openai.com/g/g-D4jB3Ml4b-esperantogpt
-* https://openai.com/blog/introducing-gpts
+This is a project to create a custom Esperanto GPT for ChatGPT that has knowledge about Esperanto culture, is better at teaching Esperanto and can access specific resources such as the PIV.
+
+Test it here: https://chat.openai.com/g/g-D4jB3Ml4b-esperantogpt
+More on cursom GPTs: https://openai.com/blog/introducing-gpts
 
 Plan:
 * create a structure to organize the files
@@ -20,7 +21,8 @@ https://platform.openai.com/docs/actions/what-is-an-action
 Right now the GPT supports these actions:
 * Search in the PIV: https://github.com/parolteknologio/EsperantoGPT/blob/main/actions/piv-ai.json
 
- 
+
+# Notoj
 Eblaj fontoj:
 * Duolingo Esperanto mega post: https://gist.github.com/c4software/d7d9693b693c7f3f07d49e1a4cfd5272#file-esperanto-megapost-md
 * Esperantaj kodprojektoj: https://github.com/Esperanto/projektoj
