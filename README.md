@@ -1,7 +1,7 @@
 # EsperantoGPT
 This is a project to create a custom Esperanto GPT for ChatGPT that has knowledge about Esperanto culture, is better at teaching Esperanto and can access specific resources such as the PIV.
 
-Test it here: https://chat.openai.com/g/g-D4jB3Ml4b-esperantogpt
+Test it here: https://chat.openai.com/g/g-D4jB3Ml4b-esperantogpt  
 More on cursom GPTs: https://openai.com/blog/introducing-gpts
 
 Plan:
