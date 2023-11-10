@@ -1,0 +1,68 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+        "version": "1.0.0",
+        "title": "Vortaro.net Dictionary API"
+    },
+    "paths": {
+        "/py/serchi.py": {
+            "get": {
+                "tags": [
+                    "Word Search"
+                ],
+                "summary": "Search for a word in the Vortaro.net dictionary also known as PIV or the Plena Ilustrita Vortaro de Esperanto.",
+                "operationId": "search_vortaro_net",
+                "parameters": [
+                    {
+                        "name": "simpla",
+                        "in": "query",
+                        "description": "Simple search mode. Set to `1` for simple search.",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "default": 1
+                        }
+                    },
+                    {
+                        "name": "s",
+                        "in": "query",
+                        "description": "Search query. The word to search for in the dictionary.",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Search results in HTML format",
+                        "content": {
+                            "text/html": {
+                                "schema": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "default": {
+                        "description": "Error"
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {}
+    },
+    "tags": [
+        {
+            "name": "Word Search",
+            "description": "Search for words in the Vortaro.net dictionary. Example: https://vortaro.net/py/serchi.py?simpla=1&s=testo"
+        }
+    ],
+    "servers": [
+        {
+            "url": "https://vortaro.net"
+        }
+    ]
+}
