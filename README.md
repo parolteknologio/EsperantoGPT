@@ -12,6 +12,15 @@ Plan:
 
 Feel free to join the disscussion and to improve the files! Ni ĉiam ĝojas pri helpantoj!
 
+# Knowledge
+For now this projects focusses on files about these knowledge fields:
+
+* Culture
+* History
+* Language
+* Learning
+* Sources
+* Technology
 
 # Actions:
 https://platform.openai.com/docs/actions/what-is-an-action
