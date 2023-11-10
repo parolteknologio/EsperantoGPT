@@ -5,7 +5,7 @@ Test it here: https://chat.openai.com/g/g-D4jB3Ml4b-esperantogpt
 More on cursom GPTs: https://openai.com/blog/introducing-gpts
 
 Plan:
-* create a structure to organize the files
+* create a structure to organize the files (/)
 * create first versions of the most important files
 * refine the information over time
 * become multilingual?
