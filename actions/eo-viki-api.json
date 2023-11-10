@@ -1,0 +1,108 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+        "version": "1.0.0",
+        "title": "Esperanto Wikipedia API for Open Assistant"
+    },
+    "paths": {
+        "/w/api.php": {
+            "get": {
+                "tags": [
+                    "Page content"
+                ],
+                "summary": "Get intro content for a page in Esperanto Wikipedia.",
+                "operationId": "get_esperanto_page",
+                "parameters": [
+                    {
+                        "name": "format",
+                        "in": "query",
+                        "description": "Output format. For this API, use `xml`.",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "default": "xml"
+                        }
+                    },
+                    {
+                        "name": "action",
+                        "in": "query",
+                        "description": "API action. For this API, use `query`.",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "default": "query"
+                        }
+                    },
+                    {
+                        "name": "prop",
+                        "in": "query",
+                        "description": "Properties to return. For this API, use `extracts`.",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "default": "extracts"
+                        }
+                    },
+                    {
+                        "name": "exintro",
+                        "in": "query",
+                        "description": "Return only content before the first section. For this API, use `1`.",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "default": "1"
+                        }
+                    },
+                    {
+                        "name": "explaintext",
+                        "in": "query",
+                        "description": "Return extracts as plain text instead of HTML. For this API, use `1`.",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "default": "1"
+                        }
+                    },
+                    {
+                        "name": "titles",
+                        "in": "query",
+                        "description": "Page title. Use underscores instead of spaces. Use percent-encoding. Example: `Esperanto`.",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Page intro content in XML format",
+                        "content": {
+                            "application/xml": {
+                                "schema": {
+                                    "type": "string"
+                                }
+                            }
+                        }
+                    },
+                    "default": {
+                        "description": "Error"
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {}
+    },
+    "tags": [
+        {
+            "name": "Page content",
+            "description": "Intro content of an Esperanto Wikipedia page. For example to search for Berlin: https://eo.wikipedia.org/w/api.php?format=xml&action=query&prop=extracts&exintro=1&explaintext=1&titles=Berlin"
+        }
+    ],
+    "servers": [
+        {
+            "url": "https://eo.wikipedia.org"
+        }
+    ]
+}
