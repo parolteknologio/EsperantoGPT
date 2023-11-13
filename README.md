@@ -19,8 +19,11 @@ The [Instructions](https://github.com/parolteknologio/EsperantoGPT/blob/main/Ins
 
 
 # Knowledge
-For now this projects focusses on files about these knowledge fields:
 
+External files:
+* The PDF of the [PMEG](https://bertilow.com/pmeg/elshutebla/pmeg_15.2.pdf)
+
+Manually created files:
 * [Culture](https://github.com/parolteknologio/EsperantoGPT/blob/main/knowledge/Culture.md)
 * [History](https://github.com/parolteknologio/EsperantoGPT/blob/main/knowledge/History.md)
 * [Language](https://github.com/parolteknologio/EsperantoGPT/blob/main/knowledge/Language.md)
