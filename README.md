@@ -22,6 +22,7 @@ The [Instructions](https://github.com/parolteknologio/EsperantoGPT/blob/main/Ins
 
 External files:
 * The PDF of the [PMEG](https://bertilow.com/pmeg/elshutebla/pmeg_15.2.pdf)
+* The xdxf file export of the [REVO dictionary](https://github.com/revuloj/revo-fonto/releases)
 
 Manually created files (todo):
 * [Culture](https://github.com/parolteknologio/EsperantoGPT/blob/main/knowledge/Culture.md)
