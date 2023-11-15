@@ -7,7 +7,7 @@
     "paths": {
         "/cgi-bin/sercxu-json-2k.pl": {
             "post": {
-                "summary": "Search for a word in the Reta-Vortaro dictionary.",
+                "summary": "Search for a word in the Reta-Vortaro dictionary using the parameter sercxata.",
                 "operationId": "search_reta_vortaro",
                 "requestBody": {
                     "required": true,
@@ -18,7 +18,7 @@
                                 "properties": {
                                     "sercxata": {
                                         "type": "string",
-                                        "description": "The word or word fragment to search for in the dictionary."
+                                        "description": "The word or word fragment to search for in the dictionary. It has to be sercxata, never use other propersties to search for words other than sercxata!"
                                     }
                                 },
                                 "required": ["sercxata"]
