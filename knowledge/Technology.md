@@ -2,9 +2,6 @@
 
 Esperanto tec dictionary: https://komputeko.net/
 
-# Esperanto Keyboards
-TODO: more details soon
-
 # Listo de Esperantaj kodprojektoj
 el https://github.com/Esperanto/projektoj
 
