@@ -1,0 +1,95 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+        "version": "1.0.0",
+        "title": "Reta-Vortaro Dictionary API"
+    },
+    "paths": {
+        "/cgi-bin/sercxu-json-2k.pl": {
+            "post": {
+                "tags": [
+                    "Word Search"
+                ],
+                "summary": "Search for a word in the Reta-Vortaro dictionary.",
+                "operationId": "search_reta_vortaro",
+                "requestBody": {
+                    "content": {
+                        "application/x-www-form-urlencoded": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "sercxata": {
+                                        "type": "string",
+                                        "description": "Search query. The word or word fragment to search for in the dictionary."
+                                    }
+                                },
+                                "required": ["sercxata"]
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Search results in JSON format",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "eo": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "string"
+                                                }
+                                            }
+                                        },
+                                        "max_eo": {
+                                            "type": "string"
+                                        },
+                                        "max_trd": {
+                                            "type": "string"
+                                        },
+                                        "lng": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "trd": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "string"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "default": {
+                        "description": "Error"
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {}
+    },
+    "tags": [
+        {
+            "name": "Word Search",
+            "description": "Search for words in the Reta-Vortaro dictionary."
+        }
+    ],
+    "servers": [
+        {
+            "url": "https://reta-vortaro.de"
+        }
+    ]
+}
