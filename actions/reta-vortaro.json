@@ -5,7 +5,7 @@
         "title": "Reta-Vortaro Dictionary API"
     },
     "paths": {
-        "/cgi-bin/sercxu-json-2k.pl": {
+        "/cgi-bin/sercxu.pl": {
             "post": {
                 "summary": "Search for a word in the Reta-Vortaro dictionary using the parameter sercxata.",
                 "operationId": "search_reta_vortaro",
@@ -28,7 +28,7 @@
                 },
                 "responses": {
                     "200": {
-                        "description": "Successful search results in JSON format"
+                        "description": "Successful search results in HTML format"
                     },
                     "default": {
                         "description": "Error response"
