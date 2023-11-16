@@ -18,7 +18,7 @@ American actor Alex Miller publishes high-quality Esperanto learning videos in E
 https://www.youtube.com/user/HelloAlexMiller
 
 #04 "TEJO Esperanto" - over 5,700 subscribers
-The channel of TEJO has significantly improved in quality in recent years and publishes, besides the usual congress videos (including almost three musicals of the last years in good quality), also mini-documentaries and interviews on current topics.
+The channel of TEJO (world esperanto youth organisation) publishes, besides the usual congress videos (including almost three musicals of the last years in good quality), also mini-documentaries and interviews on current topics.
 https://www.youtube.com/channel/UC1cW8y4NncmbRr6zD5IO8xw
 
 #05 "Esperanto Variety Show" - over 5,000 subscribers
