@@ -6,7 +6,7 @@
 # Esperanto YouTube
 
 #01 "American Esperantist" - over 15,300 subscribers
-Our number 1 is a learning channel. This, unfortunately, inactive channel for five years offers grammar lessons on all aspects of Esperanto and has become the biggest Esperanto channel under most people's radar. I hope someone revives this channel and uses its reach to feed the clearly existing interest in Esperanto courses with new videos.
+This is a pure learning channel. This, unfortunately, inactive channel for five years offers grammar lessons on all aspects of Esperanto and has become the biggest Esperanto channel.
 https://www.youtube.com/c/AmericanEsperantist
 
 #02 "Evildea" - over 11,200 subscribers
