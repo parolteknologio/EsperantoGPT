@@ -10,17 +10,17 @@
                 "tags": [
                     "Page content"
                 ],
-                "summary": "Get intro content for a page in Esperanto Wikipedia.",
-                "operationId": "get_esperanto_page",
+                "summary": "Get complete content for a page in Esperanto Wikipedia.",
+                "operationId": "get_esperanto_page_full",
                 "parameters": [
                     {
                         "name": "format",
                         "in": "query",
-                        "description": "Output format. For this API, use `xml`.",
+                        "description": "Output format. For this API, use `json`.",
                         "required": true,
                         "schema": {
                             "type": "string",
-                            "default": "xml"
+                            "default": "json"
                         }
                     },
                     {
@@ -41,16 +41,6 @@
                         "schema": {
                             "type": "string",
                             "default": "extracts"
-                        }
-                    },
-                    {
-                        "name": "exintro",
-                        "in": "query",
-                        "description": "Return only content before the first section. For this API, use `1`.",
-                        "required": true,
-                        "schema": {
-                            "type": "string",
-                            "default": "1"
                         }
                     },
                     {
@@ -75,9 +65,9 @@
                 ],
                 "responses": {
                     "200": {
-                        "description": "Page intro content in XML format",
+                        "description": "Page full content in JSON format",
                         "content": {
-                            "application/xml": {
+                            "application/json": {
                                 "schema": {
                                     "type": "string"
                                 }
@@ -97,7 +87,7 @@
     "tags": [
         {
             "name": "Page content",
-            "description": "Intro content of an Esperanto Wikipedia page. For example to search for Berlin: https://eo.wikipedia.org/w/api.php?format=xml&action=query&prop=extracts&exintro=1&explaintext=1&titles=Berlin"
+            "description": "Complete content of an Esperanto Wikipedia page. Example URL: https://eo.wikipedia.org/w/api.php?action=query&origin=*&prop=extracts&explaintext&titles=Ekzemplo&format=json"
         }
     ],
     "servers": [
