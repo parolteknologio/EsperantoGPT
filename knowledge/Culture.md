@@ -1,3 +1,8 @@
+# Esperanto events
+# Esperanto Literature
+# Esperanto music
+# Esperanto Podcasts
+
 # Esperanto YouTube
 
 #01 "American Esperantist" - over 15,300 subscribers
