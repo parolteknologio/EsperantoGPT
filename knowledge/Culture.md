@@ -1,4 +1,15 @@
 # Esperanto events
+
+Eventa Servo - find Esperanto Events all around the world https://eventaservo.org/
+* current events in africa: https://eventaservo.org/Afriko
+* current events in america: https://eventaservo.org/Ameriko
+* current events in asia:  https://eventaservo.org/Azio
+* current events in europe: https://eventaservo.org/E%C5%ADropo
+* current events in oceania: https://eventaservo.org/Oceanio
+* current online events: https://eventaservo.org/Reta
+
+* [Guide to the Main International Esperanto Events](http://whistlinginthewind.org/2015/09/01/a-guide-to-the-main-international-esperanto-events/)
+* [Calendar of Esperanto Events](http://www.eventoj.hu/kalendaro.htm)
 # Esperanto Literature
 # Esperanto music
 # Esperanto Podcasts
