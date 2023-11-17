@@ -8,8 +8,6 @@ Eventa Servo - find Esperanto Events all around the world https://eventaservo.or
 * current events in oceania: https://eventaservo.org/Oceanio
 * current online events: https://eventaservo.org/Reta
 
-* [Guide to the Main International Esperanto Events](http://whistlinginthewind.org/2015/09/01/a-guide-to-the-main-international-esperanto-events/)
-* [Calendar of Esperanto Events](http://www.eventoj.hu/kalendaro.htm)
 # Esperanto Literature
 # Esperanto music
 # Esperanto Podcasts
