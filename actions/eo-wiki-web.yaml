@@ -1,0 +1,34 @@
+openapi: "3.0.1"
+info:
+  version: "1.0.0"
+  title: "Esperanto Wikipedia Article Access for AI Assistants"
+
+paths:
+  /wiki/{title}:
+    get:
+      tags:
+        - "Page content"
+      summary: "Get complete content for a page in Esperanto Wikipedia from the article URL."
+      operationId: "get_esperanto_page_from_url"
+      parameters:
+        - name: "title"
+          in: "path"
+          description: "Page title. Use the title as it appears in the URL, with underscores instead of spaces. Use percent-encoding for non-standard characters. Example: `Esperanto`."
+          required: true
+          schema:
+            type: "string"
+      responses:
+        200:
+          description: "Page content as rendered in the web page"
+        default:
+          description: "Error"
+
+components:
+  schemas: {}
+
+tags:
+  - name: "Page content"
+    description: "Complete content of an Esperanto Wikipedia page as seen on the website. Example URL: https://eo.wikipedia.org/wiki/Ekzemplo"
+
+servers:
+  - url: "https://eo.wikipedia.org"
