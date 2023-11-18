@@ -34,8 +34,7 @@ Manually created files (todo):
 
 # Actions:
 https://platform.openai.com/docs/actions/what-is-an-action
-
-> In addition to using our built-in capabilities, you can also define custom actions by making one or more APIs available to the GPT. Like plugins, actions allow GPTs to integrate external data or interact with the real-world. Connect GPTs to databases, plug them into emails, or make them your shopping assistant. For example, you could integrate a travel listings database, connect a user’s email inbox, or facilitate e-commerce orders.
+For documentation and planned action see https://github.com/parolteknologio/EsperantoGPT/blob/main/actions/README.md
 
 Right now the GPT supports these actions:
 * Search in the PIV: https://github.com/parolteknologio/EsperantoGPT/blob/main/actions/piv-ai.json
