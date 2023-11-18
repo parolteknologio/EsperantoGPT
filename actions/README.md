@@ -11,4 +11,4 @@ Just using the browsing feature might be easier here
 * [piv-ai.json](https://github.com/parolteknologio/EsperantoGPT/blob/main/actions/piv-ai.json) is a working acition using the ismple mode of the PIV website
 
 # REVO
-* Revo Action is not functional rn but there is a possible workaround with python and a file, see [#1](https://github.com/parolteknologio/EsperantoGPT/issues/1)https://github.com/parolteknologio/EsperantoGPT/issues/1
+* Revo Action is not functional rn but there is a possible workaround with python and a file, see [#1](https://github.com/parolteknologio/EsperantoGPT/issues/1)
