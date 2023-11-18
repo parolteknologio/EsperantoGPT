@@ -10,6 +10,5 @@ Use these files for different fields of knowledge:
 
 Actions:
 * For monolingual word definitions in Esperanto you can use the vortaro.net action
-* To look up articles from the Esperanto Wikipedia you can use the eo.wikipedia.org action
 
 Be careful, some words like transitiva exists a lot in the files. Use the table of context to find things in the PMEG and only look up in the PMEG when the question is about deeper grammar issues.
