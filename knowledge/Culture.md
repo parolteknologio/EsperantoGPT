@@ -11,6 +11,7 @@ Eventa Servo - find Esperanto Events all around the world https://eventaservo.or
 # Esperanto Literature
 # Esperanto music
 # Esperanto Podcasts
+Listo de radioj kaj podkastoj en Esperanto:  https://eo.wikipedia.org/wiki/Listo_de_radioj_kaj_podkastoj_en_Esperanto
 
 # Esperanto YouTube
 
