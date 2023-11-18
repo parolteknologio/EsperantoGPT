@@ -1,7 +1,7 @@
 openapi: "3.0.1"
 info:
   version: "1.0.0"
-  title: "Esperanto Wikipedia Article Access for AI Assistants"
+  title: "Esperanto Wikipedia Article Access for AI Assistants - Vikipedio"
 
 paths:
   /wiki/{title}:
