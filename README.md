@@ -33,12 +33,13 @@ Manually created files (todo):
 * [Technology](https://github.com/parolteknologio/EsperantoGPT/blob/main/knowledge/Technology.md)
 
 # Actions:
-https://platform.openai.com/docs/actions/what-is-an-action
-For documentation and planned action see [actions/README.md](https://github.com/parolteknologio/EsperantoGPT/blob/main/actions/README.md)
+* OpenAI documentation: https://platform.openai.com/docs/actions/what-is-an-action
+* For more details and more experimental actions see [actions/README.md](https://github.com/parolteknologio/EsperantoGPT/blob/main/actions/README.md)
 
 Right now the GPT supports these actions:
 * Search in the PIV: https://github.com/parolteknologio/EsperantoGPT/blob/main/actions/piv-ai.json
 
+I am always looking for ideas for aditional actions!
 
 # Notoj
 Eblaj fontoj:
