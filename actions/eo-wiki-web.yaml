@@ -1,25 +1,32 @@
 openapi: "3.0.1"
 info:
   version: "1.0.0"
-  title: "Esperanto Wikipedia Article Access for AI Assistants - Vikipedio"
+  title: "Esperanto Wikipedia Raw WikiText Access for AI Assistants"
 
 paths:
-  /wiki/{title}:
+  /w/index.php:
     get:
       tags:
-        - "Page content"
-      summary: "Get complete content for a page in Esperanto Wikipedia from the article URL."
-      operationId: "get_esperanto_page_from_url"
+        - "Raw WikiText"
+      summary: "Get the raw WikiText for a page in Esperanto Wikipedia."
+      operationId: "get_esperanto_raw_wikitext"
       parameters:
         - name: "title"
-          in: "path"
-          description: "Page title. Use the title as it appears in the URL, with underscores instead of spaces. Use percent-encoding for non-standard characters. Example: `Esperanto`."
+          in: "query"
+          description: "Page title for which the raw WikiText is required. Use the title as it appears in the URL, with underscores instead of spaces. Use percent-encoding for non-standard characters. Example: `Esperanto`."
           required: true
           schema:
             type: "string"
+        - name: "action"
+          in: "query"
+          description: "Action parameter to retrieve raw WikiText. Always set this to 'raw'."
+          required: true
+          schema:
+            type: "string"
+            default: "raw"
       responses:
         200:
-          description: "Page content as rendered in the web page"
+          description: "Raw WikiText content as a .php file"
         default:
           description: "Error"
 
@@ -27,8 +34,8 @@ components:
   schemas: {}
 
 tags:
-  - name: "Page content"
-    description: "Complete content of an Esperanto Wikipedia page as seen on the website. Example URL: https://eo.wikipedia.org/wiki/Ekzemplo"
+  - name: "Raw WikiText"
+    description: "Raw WikiText of an Esperanto Wikipedia page. Example URL: https://eo.wikipedia.org/w/index.php?title=Esperanto&action=raw"
 
 servers:
   - url: "https://eo.wikipedia.org"
