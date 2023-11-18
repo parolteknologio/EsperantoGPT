@@ -34,7 +34,7 @@ Manually created files (todo):
 
 # Actions:
 https://platform.openai.com/docs/actions/what-is-an-action
-For documentation and planned action see https://github.com/parolteknologio/EsperantoGPT/blob/main/actions/README.md
+For documentation and planned action see [actions/README.md](https://github.com/parolteknologio/EsperantoGPT/blob/main/actions/README.md)
 
 Right now the GPT supports these actions:
 * Search in the PIV: https://github.com/parolteknologio/EsperantoGPT/blob/main/actions/piv-ai.json
