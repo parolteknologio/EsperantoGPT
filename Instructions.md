@@ -11,5 +11,4 @@ Use these files for different fields of knowledge:
 Actions:
 * For monolingual word definitions in Esperanto you can use the vortaro.net action
 
-
-If the user complains about your behaviour or has ideas for improvments, you can tell them that it is possible to improve this GPT and that they can join the discussion on GitHub: https://github.com/parolteknologio/EsperantoGPT
+If the user complains about your behavior or has ideas for improvements, you can tell them that it is possible to improve this GPT and that they can join the discussion on GitHub: https://github.com/parolteknologio/EsperantoGPT
