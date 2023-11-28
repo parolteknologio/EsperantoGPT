@@ -1,4 +1,4 @@
-= Esperanto grammar = 
+# Esperanto grammar
 
 Source: https://en.wikipedia.org/wiki/Esperanto_grammar
 
@@ -6,11 +6,11 @@ Esperanto is the most widely used constructed language intended for internationa
 
 Each part of speech has a characteristic ending: nouns end with ‑o; adjectives with ‑a; present‑tense indicative verbs with ‑as, and so on. An extensive system of prefixes and suffixes may be freely combined with roots to generate vocabulary, so that it is possible to communicate effectively with a vocabulary of 400 to 500 root words. The original vocabulary of Esperanto had around 900 root words, but was quickly expanded. 
 
-== Grammatical summary ==
+## Grammatical summary ##
 
 Esperanto has an agglutinative morphology, no grammatical gender, and simple verbal and nominal inflections. Verbal suffixes indicate whether a verb is in the infinitive, a participle form (active or passive in three tenses), or one of three moods (indicative, conditional, or volitive; of which the indicative has three tenses), and are derived for several aspects, but do not agree with the grammatical person or number of their subjects. Nouns and adjectives have two cases, nominative/oblique and accusative/allative, and two numbers, singular and plural; the adjectival form of personal pronouns behaves like a genitive case. Adjectives generally agree with nouns in case and number. In addition to indicating direct objects, the accusative/allative case is used with nouns, adjectives and adverbs for showing the destination of a motion, or to replace certain prepositions; the nominative/oblique is used in all other situations. The case system allows for a flexible word order that reflects information flow and other pragmatic concerns, as in Russian, Greek, and Latin. 
 
-== Script and pronunciation ==
+## Script and pronunciation ##
 
 Esperanto uses a 28-letter Latin alphabet that contains the six additional letters ĉ, ĝ, ĥ, ĵ, ŝ and ŭ, but does not use the letters q, w, x or y. The extra diacritics are the circumflex and the breve. Occasionally, an acute accent (or an apostrophe) is used to indicate irregular stress in a proper name.
 
@@ -62,7 +62,7 @@ The article la, like the demonstrative adjective tiu (this, that), occurs at the
 
 There is no grammatically required indefinite article: homo means either "human being" or "a human being", depending on the context, and similarly the plural homoj means "human beings" or "some human beings". The words iu and unu (or their plurals iuj and unuj) may be used somewhat like indefinite articles, but they're closer in meaning to "some" and "a certain" than to English "a". This use of unu corresponds to English "a" when the "a" indicates a specific individual.[1] For example, it is used to introduce new participants (Unu viro ekvenis al mi kaj diris ... 'A man came up to me and said ...'). 
 
-== Parts of speech ==
+## Parts of speech ##
 
 The suffixes ‑o, ‑a, ‑e, and ‑i indicate that a word is a noun, adjective, adverb, and infinitive verb, respectively. Many new words can be derived simply by changing these suffixes. Derivations from the word vidi (to see) are vida (visual), vide (visually), and vido (vision).
 
@@ -74,7 +74,7 @@ A limited number of basic adverbs do not end with -e, but with an undefined part
 
 The part-of-speech endings may double up. Apart from the -aŭ suffix, where adding a second part-of-speech ending is nearly universal, this happens only occasionally. For example, vivu! "viva!" (the volitive of vivi 'to live') has a nominal form vivuo (a cry of 'viva!') and a doubly verbal form vivui (to cry 'viva!'). 
 
-== Nouns and adjectives ==
+## Nouns and adjectives ##
 
 Nouns end with the suffix -o. To make a word plural, the suffix -j is added to the -o. Without this suffix, a countable noun is understood to be singular. Direct objects take an accusative case suffix -n, which goes after any plural suffix; the resulting pluralized accusative sequence -ojn rhymes with English coin.
 
@@ -97,14 +97,14 @@ A predicative adjective does not take the accusative case suffix even when the n
     mi farbis la pordon ruĝan (I painted the red door)
     mi farbis la pordon ruĝa (I painted the door red).
 
-== Pronouns ==
+## Pronouns ##
 
 There are three types of pronouns in Esperanto: personal (vi "you"), demonstrative (tio "that", iu "someone"), and relative/interrogative (kio "what"). According to the fifth rule[4] of the Fundamento de Esperanto:
 
     5. The personal pronouns are: mi, "I"; vi, "thou", "you"; li, "he"; ŝi, "she"; ĝi, "it"; si, "self"; ni, "we"; ili, "they"; oni, "one", "people", (French "on").
     — L. L. Zamenhof, Fundamento de Esperanto (1905)
 
-== Personal pronouns ==
+## Personal pronouns ##
 
 The Esperanto personal pronoun system is similar to that of English, but with the addition of a reflexive pronoun. 
 
@@ -161,11 +161,11 @@ When speaking of adults or people in general, in popular usage it is much more c
 the word tiu would be understood as referring to someone other than the person speaking (like English pronouns this or that but also referring to people), and so cannot be used in place of ĝi, li or ŝi. See gender-neutral pronouns in Esperanto for other approaches.
 
 
-== Other pronouns == 
+## Other pronouns ## 
 
 The demonstrative and relative pronouns form part of the correlative system, and are described in that article. The pronouns are the forms ending in -o (simple pronouns) and -u (adjectival pronouns); these take plural -j and accusative -n as nouns and adjectives do. The possessive pronouns, however, are the forms ending in -es; they are indeclinable for number and case.[18] Compare the nominative phases lia domo (his house) and ties domo (that one's house, those ones' house) with the plural liaj domoj (his houses) and ties domoj (that one's houses, those ones' houses), and with the accusative genitive lian domon and ties domon.[19] 
 
-== Prepositions ==
+## Prepositions ##
 
 Although Esperanto word order is fairly free, prepositions must come at the beginning of a noun phrase. Whereas in languages such as German, prepositions may require that a noun be in various cases (accusative, dative, and so on), in Esperanto all prepositions govern the nominative: por Johano (for John). The only exception is when there are two or more prepositions and one is replaced by the accusative.
 
@@ -207,7 +207,7 @@ The last of these, da, is semantically Slavic and is difficult for Western Europ
 
 Because a bare root may indicate a preposition or interjection, removing the grammatical suffix from another part of speech can be used to derive a preposition or interjection. Thus the verbal root far- (do, make) has been unofficially used without a part-of-speech suffix as a preposition "by", marking the agent of a passive participle or an action noun in place of the standard de. 
 
-== Verbs ==
+## Verbs ##
 
 All verbal inflection is regular. There are three tenses of the indicative mood. The other moods are the conditional and volitive (treated as the jussive by some). There is also the infinitive. No aspectual distinctions are required by the grammar, but derivational expressions of Aktionsart are common.
 
@@ -225,7 +225,7 @@ Most verbs are inherently transitive or intransitive. As with the inherent part 
 
 (Movi is a transitive verb; the -iĝ- affix makes it intransitive.) 
 
-=== The verbal paradigm ===
+### The verbal paradigm ###
 
 The tenses have characteristic vowels. Namely, a indicates the present tense, i the past, and o the future. (However, i on its own is used for the infinitive.) 
 
@@ -247,7 +247,7 @@ The verbal forms may be illustrated with the root esper- (hope):
 
 A verb can be made emphatic with the particle ja (indeed): mi ja esperas (I do hope), mi ja esperis (I did hope). 
 
-=== Tense ===
+### Tense ###
 
 As in English, Esperanto present tense may be used for generic statements such as "birds fly" (la birdoj flugas).
 
@@ -255,7 +255,7 @@ The Esperanto future is a true tense, used whenever future time is meant. For ex
 
 In indirect speech, Esperanto tense is relative.[21] This differs from English absolute tense, where the tense is past, present, or future of the moment of speaking: In Esperanto, the tense of a subordinate verb is instead anterior or posterior to the time of the main verb. For example, "John said that he would go" is in Esperanto Johano diris, ke li iros (lit., "John said that he will go"); this does not mean that he will go at some point in the future from now (as "John said that he will go" means in English), but that at the time he said this, his going was still in the future. 
 
-=== Mood ===
+### Mood ###
 The conditional mood is used for such expressions as se mi povus, mi irus (if I could, I would go) and se mi estus vi, mi irus (if I were you, I'd go).
 
 The volitive mood is used to indicate that an action or state is desired, requested, ordered, or aimed for.[22] Although the verb form is formally called volitive,[23][24] in practice it can be seen as a broader deontic form rather than a pure volitive form, as it is also used to express orders and commands besides wishes and desires. It serves as the imperative and performs some of the functions of a subjunctive:
@@ -268,7 +268,7 @@ The volitive mood is used to indicate that an action or state is desired, reques
     Mia filino belu! (May my daughter be beautiful!)
 
 
-=== Aspect ===
+### Aspect ###
 
 Verbal aspect is not grammatically required in Esperanto. However, aspectual distinctions may be expressed via participles (see below), and the Slavic aspectual system survives in two aktionsart affixes, perfective (often inceptive) ek- and imperfective -ad. Compare,
 
@@ -282,7 +282,7 @@ Various prepositions may also be used as aktionsart prefixes, such as el (out of
 
     Germanan kaj francan lingvojn mi ellernis en infaneco (I learned French and German in childhood).
 
-=== Copula ===
+### Copula ###
 
 The verb esti (to be) is both the copula ("X is Y") and the existential ("there is") verb. As a copula linking two noun phrases, it causes neither to take the accusative case. Therefore, unlike the situation with other verbs, word order with esti can be semantically important: compare hundoj estas personoj (dogs are people) and personoj estas hundoj (people are dogs).
 
@@ -290,7 +290,7 @@ Existential verbs do not use dummy pronouns. Thus, the phrase estas pomo (there 
 
 One sometimes sees esti-plus-adjective rendered as a verb: la ĉielo estas blua as la ĉielo bluas (the sky is blue). This is a stylistic rather than grammatical change in the language, as the more economical verbal forms were always found in poetry.
 
-== Participles ==
+## Participles ##
 
 Participles are verbal derivatives. In Esperanto, there are six forms:
 * three aspects: 
@@ -300,7 +300,7 @@ for each of:
 ** active (performing an action) and passive (receiving an action)
 The participles represent aspect by retaining the vowel of the related verbal tense: '''i''', '''a''', '''o'''. In addition to carrying aspect, participles are the principal means of representing voice, with either '''nt''' or '''t''' following the vowel (see next section).
 
-=== Adjectival participles ===
+### Adjectival participles ###
 The basic principle of the participles may be illustrated with the verb fali (to fall). Picture a cartoon character running off a cliff and hanging in the air for a moment. As it hangs in the air, it is falonta (about to fall). As it drops, it is falanta (falling). After it hits the ground, it is falinta (fallen).
 
 Active and passive pairs can be illustrated with the transitive verb haki (to chop). Picture a woodsman approaching a tree with an axe, intending to chop it down. He is hakonta (about to chop) and the tree is hakota (about to be chopped). While swinging the axe, he is hakanta (chopping) and the tree hakata (being chopped). After the tree has fallen, he is hakinta (having chopped) and the tree hakita (chopped).
@@ -310,7 +310,7 @@ Adjectival participles agree with nouns in number and case, just as other adject
     ili ŝparis la arbojn hakotajn (they spared the trees [that were] to be chopped down).
 
 
-=== Compound tense ===
+### Compound tense ###
 
 Compound tenses are formed with the adjectival participles plus esti (to be) as the auxiliary verb. The participle reflects aspect and voice, while the verb carries tense. For example:
 
@@ -327,7 +327,7 @@ The tense and mood of esti can be changed in these compound tenses:
     Future present: mi estos kaptanta (I will be catching).
 
 
-=== Synthetic forms ===
+### Synthetic forms ###
 
 Although such periphrastic constructions are familiar to speakers of most European languages, the option of contracting [esti + adjective] into a verb is sometimes seen for adjectival participles:
 
@@ -359,19 +359,19 @@ Besides the active voice, there is a parallel passive paradigm, obtained by omit
 
 A few of these forms, notably -intus (conditional past progressive) and -atas (present passive), have entered common usage, but most are rare because they are more difficult to parse than periphrastic constructions.
 
-=== Nominal participles ===
+### Nominal participles ###
 
 Participles may be turned into adverbs or nouns by replacing the adjectival suffix -a with -e or -o. This means that, in Esperanto, some nouns may be inflected for tense.
 
 A nominal participle indicates one who participates in the action specified by the verbal root. For example, esperinto is a "hoper" (past tense), or one who had been hoping. 
 
-=== Adverbial participles === 
+### Adverbial participles ### 
 Adverbial participles are used for circumstantial participial phrases:
 
     Kaptinte la pilkon, li ekkuris golen (Having caught the ball, he ran for the goal).
 
 
-=== Conditional and tenseless participles (unofficial) ===
+### Conditional and tenseless participles (unofficial) ###
 
 Occasionally, the participle paradigm will be extended to include conditional participles, with the vowel u (-unt-, -ut-).[27] If, for example, in our tree-chopping example, the woodsman found that the tree had been spiked and so couldn't be cut down after all, he would be hakunta and the tree hakuta (he, the one "who would chop", and the tree, the one that "would be chopped").
 
@@ -380,7 +380,7 @@ This can also be illustrated with the verb prezidi (to preside). Just after the 
 * then-president Bill Clinton was still prezidanto (current president) of the United States,
 * president-elect George W. Bush was declared prezidonto (president-to-be),
 * the previous president George H. W. Bush was a prezidinto (former president), and
-* the contending candidate Al Gore was prezidunto (would-be president – that is, if the recount had gone differently).[28]
+* the contending candidate Al Gore was prezidunto (would-be president – that is, if the recount had gone differently).
 
 Tense-neutral words such as prezidento and studento are formally considered distinct nominal roots, not derivatives of the verbs prezidi and studi. 
 
