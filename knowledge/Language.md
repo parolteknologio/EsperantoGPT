@@ -4,13 +4,13 @@ Source: https://en.wikipedia.org/wiki/Esperanto_grammar
 
 Esperanto is the most widely used constructed language intended for international communication; it was designed with highly regular grammatical rules, and as such is considered an easy language to learn.
 
-Each part of speech has a characteristic ending: nouns end with ‑o; adjectives with ‑a; present‑tense indicative verbs with ‑as, and so on. An extensive system of prefixes and suffixes may be freely combined with roots to generate vocabulary, so that it is possible to communicate effectively with a vocabulary of 400 to 500 root words. The original vocabulary of Esperanto had around 900 root words, but was quickly expanded. 
+Each part of speech has a characteristic ending: nouns end with ‑o; adjectives with ‑a; present‑tense indicative verbs with ‑as, and so on. An extensive system of prefixes and suffixes may be freely combined with roots to generate vocabulary, so that it is possible to communicate effectively with a vocabulary of 400 to 500 root words. The original vocabulary of Esperanto had around 900 root words, but was quickly expanded.
 
-## Grammatical summary ##
+## Grammatical summary
 
-Esperanto has an agglutinative morphology, no grammatical gender, and simple verbal and nominal inflections. Verbal suffixes indicate whether a verb is in the infinitive, a participle form (active or passive in three tenses), or one of three moods (indicative, conditional, or volitive; of which the indicative has three tenses), and are derived for several aspects, but do not agree with the grammatical person or number of their subjects. Nouns and adjectives have two cases, nominative/oblique and accusative/allative, and two numbers, singular and plural; the adjectival form of personal pronouns behaves like a genitive case. Adjectives generally agree with nouns in case and number. In addition to indicating direct objects, the accusative/allative case is used with nouns, adjectives and adverbs for showing the destination of a motion, or to replace certain prepositions; the nominative/oblique is used in all other situations. The case system allows for a flexible word order that reflects information flow and other pragmatic concerns, as in Russian, Greek, and Latin. 
+Esperanto has an agglutinative morphology, no grammatical gender, and simple verbal and nominal inflections. Verbal suffixes indicate whether a verb is in the infinitive, a participle form (active or passive in three tenses), or one of three moods (indicative, conditional, or volitive; of which the indicative has three tenses), and are derived for several aspects, but do not agree with the grammatical person or number of their subjects. Nouns and adjectives have two cases, nominative/oblique and accusative/allative, and two numbers, singular and plural; the adjectival form of personal pronouns behaves like a genitive case. Adjectives generally agree with nouns in case and number. In addition to indicating direct objects, the accusative/allative case is used with nouns, adjectives and adverbs for showing the destination of a motion, or to replace certain prepositions; the nominative/oblique is used in all other situations. The case system allows for a flexible word order that reflects information flow and other pragmatic concerns, as in Russian, Greek, and Latin.
 
-## Script and pronunciation ##
+## Script and pronunciation
 
 Esperanto uses a 28-letter Latin alphabet that contains the six additional letters ĉ, ĝ, ĥ, ĵ, ŝ and ŭ, but does not use the letters q, w, x or y. The extra diacritics are the circumflex and the breve. Occasionally, an acute accent (or an apostrophe) is used to indicate irregular stress in a proper name.
 
@@ -60,9 +60,9 @@ The article may also be used for inalienable possession of body parts and kin te
 
 The article la, like the demonstrative adjective tiu (this, that), occurs at the beginning of the noun phrase.
 
-There is no grammatically required indefinite article: homo means either "human being" or "a human being", depending on the context, and similarly the plural homoj means "human beings" or "some human beings". The words iu and unu (or their plurals iuj and unuj) may be used somewhat like indefinite articles, but they're closer in meaning to "some" and "a certain" than to English "a". This use of unu corresponds to English "a" when the "a" indicates a specific individual.[1] For example, it is used to introduce new participants (Unu viro ekvenis al mi kaj diris ... 'A man came up to me and said ...'). 
+There is no grammatically required indefinite article: homo means either "human being" or "a human being", depending on the context, and similarly the plural homoj means "human beings" or "some human beings". The words iu and unu (or their plurals iuj and unuj) may be used somewhat like indefinite articles, but they're closer in meaning to "some" and "a certain" than to English "a". This use of unu corresponds to English "a" when the "a" indicates a specific individual.[1] For example, it is used to introduce new participants (Unu viro ekvenis al mi kaj diris ... 'A man came up to me and said ...').
 
-## Parts of speech ##
+## Parts of speech
 
 The suffixes ‑o, ‑a, ‑e, and ‑i indicate that a word is a noun, adjective, adverb, and infinitive verb, respectively. Many new words can be derived simply by changing these suffixes. Derivations from the word vidi (to see) are vida (visual), vide (visually), and vido (vision).
 
@@ -72,9 +72,9 @@ The meanings of part-of-speech affixes depend on the inherent part of speech of 
 
 A limited number of basic adverbs do not end with -e, but with an undefined part-of-speech ending -aŭ. Not all words ending in -aŭ are adverbs, and most of the adverbs that end in -aŭ have other functions, such as hodiaŭ "today" [noun or adverb] or ankoraŭ "yet, still" [conjunction or adverb]. About a dozen other adverbs are bare roots, such as nun "now", tro "too, too much", not counting the adverbs among the correlatives. (See special Esperanto adverbs.)
 
-The part-of-speech endings may double up. Apart from the -aŭ suffix, where adding a second part-of-speech ending is nearly universal, this happens only occasionally. For example, vivu! "viva!" (the volitive of vivi 'to live') has a nominal form vivuo (a cry of 'viva!') and a doubly verbal form vivui (to cry 'viva!'). 
+The part-of-speech endings may double up. Apart from the -aŭ suffix, where adding a second part-of-speech ending is nearly universal, this happens only occasionally. For example, vivu! "viva!" (the volitive of vivi 'to live') has a nominal form vivuo (a cry of 'viva!') and a doubly verbal form vivui (to cry 'viva!').
 
-## Nouns and adjectives ##
+## Nouns and adjectives
 
 Nouns end with the suffix -o. To make a word plural, the suffix -j is added to the -o. Without this suffix, a countable noun is understood to be singular. Direct objects take an accusative case suffix -n, which goes after any plural suffix; the resulting pluralized accusative sequence -ojn rhymes with English coin.
 
@@ -97,32 +97,30 @@ A predicative adjective does not take the accusative case suffix even when the n
     mi farbis la pordon ruĝan (I painted the red door)
     mi farbis la pordon ruĝa (I painted the door red).
 
-## Pronouns ##
+## Pronouns
 
 There are three types of pronouns in Esperanto: personal (vi "you"), demonstrative (tio "that", iu "someone"), and relative/interrogative (kio "what"). According to the fifth rule[4] of the Fundamento de Esperanto:
 
     5. The personal pronouns are: mi, "I"; vi, "thou", "you"; li, "he"; ŝi, "she"; ĝi, "it"; si, "self"; ni, "we"; ili, "they"; oni, "one", "people", (French "on").
     — L. L. Zamenhof, Fundamento de Esperanto (1905)
 
-## Personal pronouns ##
+## Personal pronouns
 
-The Esperanto personal pronoun system is similar to that of English, but with the addition of a reflexive pronoun. 
+The Esperanto personal pronoun system is similar to that of English, but with the addition of a reflexive pronoun.
 
-| English            | Esperanto  |
-|--------------------|------------|
-| I                  | mi         |
-| you (singular)     | vi         |
-| he                 | li         |
-| she                | ŝi         |
-| it                 | ĝi         |
-| we                 | ni         |
-| you (plural)       | vi         |
-| they               | ili        |
-| indefinite (one, they, you) | oni  |
-| reflexive (self)   | si         |
-| sgender-neutral third person singular (unofficial) | ri |
-
-
+| English                                            | Esperanto |
+| -------------------------------------------------- | --------- |
+| I                                                  | mi        |
+| you (singular)                                     | vi        |
+| he                                                 | li        |
+| she                                                | ŝi        |
+| it                                                 | ĝi        |
+| we                                                 | ni        |
+| you (plural)                                       | vi        |
+| they                                               | ili       |
+| indefinite (one, they, you)                        | oni       |
+| reflexive (self)                                   | si        |
+| sgender-neutral third person singular (unofficial) | ri        |
 
 ^1 Zamenhof introduced a singular second-person pronoun ci, to be used in translations from languages where the T–V distinction was important, but he discouraged its use.[5] He added it in the Dua Libro in 1888 clarifying that "this word is only found in the dictionary; in the language itself it is hardly ever used",[6] and excluded it from the list of pronouns in the Fundamento.[7] To this day, it is standard to use only vi regardless of number or formality.[8][9]
 
@@ -160,12 +158,11 @@ When speaking of adults or people in general, in popular usage it is much more c
 
 the word tiu would be understood as referring to someone other than the person speaking (like English pronouns this or that but also referring to people), and so cannot be used in place of ĝi, li or ŝi. See gender-neutral pronouns in Esperanto for other approaches.
 
+## Other pronouns
 
-## Other pronouns ## 
+The demonstrative and relative pronouns form part of the correlative system, and are described in that article. The pronouns are the forms ending in -o (simple pronouns) and -u (adjectival pronouns); these take plural -j and accusative -n as nouns and adjectives do. The possessive pronouns, however, are the forms ending in -es; they are indeclinable for number and case.[18] Compare the nominative phases lia domo (his house) and ties domo (that one's house, those ones' house) with the plural liaj domoj (his houses) and ties domoj (that one's houses, those ones' houses), and with the accusative genitive lian domon and ties domon.[19]
 
-The demonstrative and relative pronouns form part of the correlative system, and are described in that article. The pronouns are the forms ending in -o (simple pronouns) and -u (adjectival pronouns); these take plural -j and accusative -n as nouns and adjectives do. The possessive pronouns, however, are the forms ending in -es; they are indeclinable for number and case.[18] Compare the nominative phases lia domo (his house) and ties domo (that one's house, those ones' house) with the plural liaj domoj (his houses) and ties domoj (that one's houses, those ones' houses), and with the accusative genitive lian domon and ties domon.[19] 
-
-## Prepositions ##
+## Prepositions
 
 Although Esperanto word order is fairly free, prepositions must come at the beginning of a noun phrase. Whereas in languages such as German, prepositions may require that a noun be in various cases (accusative, dative, and so on), in Esperanto all prepositions govern the nominative: por Johano (for John). The only exception is when there are two or more prepositions and one is replaced by the accusative.
 
@@ -205,9 +202,9 @@ However, English of corresponds to several Esperanto prepositions also: de, el (
 
 The last of these, da, is semantically Slavic and is difficult for Western Europeans, to the extent that even many Esperanto dictionaries and grammars define it incorrectly.
 
-Because a bare root may indicate a preposition or interjection, removing the grammatical suffix from another part of speech can be used to derive a preposition or interjection. Thus the verbal root far- (do, make) has been unofficially used without a part-of-speech suffix as a preposition "by", marking the agent of a passive participle or an action noun in place of the standard de. 
+Because a bare root may indicate a preposition or interjection, removing the grammatical suffix from another part of speech can be used to derive a preposition or interjection. Thus the verbal root far- (do, make) has been unofficially used without a part-of-speech suffix as a preposition "by", marking the agent of a passive participle or an action noun in place of the standard de.
 
-## Verbs ##
+## Verbs
 
 All verbal inflection is regular. There are three tenses of the indicative mood. The other moods are the conditional and volitive (treated as the jussive by some). There is also the infinitive. No aspectual distinctions are required by the grammar, but derivational expressions of Aktionsart are common.
 
@@ -223,18 +220,17 @@ Most verbs are inherently transitive or intransitive. As with the inherent part 
     mi movis la biciklon al la ĝardeno (I moved the bicycle to the garden)
     la biciklo moviĝis tre rapide (the bicycle moved very fast)
 
-(Movi is a transitive verb; the -iĝ- affix makes it intransitive.) 
+(Movi is a transitive verb; the -iĝ- affix makes it intransitive.)
 
-### The verbal paradigm ###
+### The verbal paradigm
 
-The tenses have characteristic vowels. Namely, a indicates the present tense, i the past, and o the future. (However, i on its own is used for the infinitive.) 
+The tenses have characteristic vowels. Namely, a indicates the present tense, i the past, and o the future. (However, i on its own is used for the infinitive.)
 
-| Tense/Mood      | Indicative | Active Participle | Passive Participle | Conditional | Volitive | Infinitive |
-|-----------------|------------|-------------------|--------------------|-------------|----------|------------|
-| Past            | -is        | -inta             | -ita               | -us         | -u       | -i         |
-| Present         | -as        | -anta             | -ata               |             |          |            |
-| Future          | -os        | -onta             | -ota               |             |          |            |
-
+| Tense/Mood | Indicative | Active Participle | Passive Participle | Conditional | Volitive | Infinitive |
+| ---------- | ---------- | ----------------- | ------------------ | ----------- | -------- | ---------- |
+| Past       | -is        | -inta             | -ita               | -us         | -u       | -i         |
+| Present    | -as        | -anta             | -ata               |             |          |            |
+| Future     | -os        | -onta             | -ota               |             |          |            |
 
 The verbal forms may be illustrated with the root esper- (hope):
 
@@ -245,17 +241,18 @@ The verbal forms may be illustrated with the root esper- (hope):
     esperu (hope, hope! [a command])
     esperi (to hope)
 
-A verb can be made emphatic with the particle ja (indeed): mi ja esperas (I do hope), mi ja esperis (I did hope). 
+A verb can be made emphatic with the particle ja (indeed): mi ja esperas (I do hope), mi ja esperis (I did hope).
 
-### Tense ###
+### Tense
 
 As in English, Esperanto present tense may be used for generic statements such as "birds fly" (la birdoj flugas).
 
 The Esperanto future is a true tense, used whenever future time is meant. For example, in English "(I'll give it to you) when I see you" the verb "see" is in the present tense despite the time being in the future; in Esperanto, future tense is required: (Mi donos ĝin al vi) kiam mi vidos vin.
 
-In indirect speech, Esperanto tense is relative.[21] This differs from English absolute tense, where the tense is past, present, or future of the moment of speaking: In Esperanto, the tense of a subordinate verb is instead anterior or posterior to the time of the main verb. For example, "John said that he would go" is in Esperanto Johano diris, ke li iros (lit., "John said that he will go"); this does not mean that he will go at some point in the future from now (as "John said that he will go" means in English), but that at the time he said this, his going was still in the future. 
+In indirect speech, Esperanto tense is relative.[21] This differs from English absolute tense, where the tense is past, present, or future of the moment of speaking: In Esperanto, the tense of a subordinate verb is instead anterior or posterior to the time of the main verb. For example, "John said that he would go" is in Esperanto Johano diris, ke li iros (lit., "John said that he will go"); this does not mean that he will go at some point in the future from now (as "John said that he will go" means in English), but that at the time he said this, his going was still in the future.
 
-### Mood ###
+### Mood
+
 The conditional mood is used for such expressions as se mi povus, mi irus (if I could, I would go) and se mi estus vi, mi irus (if I were you, I'd go).
 
 The volitive mood is used to indicate that an action or state is desired, requested, ordered, or aimed for.[22] Although the verb form is formally called volitive,[23][24] in practice it can be seen as a broader deontic form rather than a pure volitive form, as it is also used to express orders and commands besides wishes and desires. It serves as the imperative and performs some of the functions of a subjunctive:
@@ -267,8 +264,7 @@ The volitive mood is used to indicate that an action or state is desired, reques
     Benu ĉi tiun domaĉon. (Bless this shack.)
     Mia filino belu! (May my daughter be beautiful!)
 
-
-### Aspect ###
+### Aspect
 
 Verbal aspect is not grammatically required in Esperanto. However, aspectual distinctions may be expressed via participles (see below), and the Slavic aspectual system survives in two aktionsart affixes, perfective (often inceptive) ek- and imperfective -ad. Compare,
 
@@ -282,7 +278,7 @@ Various prepositions may also be used as aktionsart prefixes, such as el (out of
 
     Germanan kaj francan lingvojn mi ellernis en infaneco (I learned French and German in childhood).
 
-### Copula ###
+### Copula
 
 The verb esti (to be) is both the copula ("X is Y") and the existential ("there is") verb. As a copula linking two noun phrases, it causes neither to take the accusative case. Therefore, unlike the situation with other verbs, word order with esti can be semantically important: compare hundoj estas personoj (dogs are people) and personoj estas hundoj (people are dogs).
 
@@ -290,17 +286,19 @@ Existential verbs do not use dummy pronouns. Thus, the phrase estas pomo (there 
 
 One sometimes sees esti-plus-adjective rendered as a verb: la ĉielo estas blua as la ĉielo bluas (the sky is blue). This is a stylistic rather than grammatical change in the language, as the more economical verbal forms were always found in poetry.
 
-## Participles ##
+## Participles
 
 Participles are verbal derivatives. In Esperanto, there are six forms:
-* three aspects: 
-** past (or "perfective"), present (or "progressive"), and future (or "predictive")
-for each of:
-* two voices:
-** active (performing an action) and passive (receiving an action)
-The participles represent aspect by retaining the vowel of the related verbal tense: '''i''', '''a''', '''o'''. In addition to carrying aspect, participles are the principal means of representing voice, with either '''nt''' or '''t''' following the vowel (see next section).
 
-### Adjectival participles ###
+- three aspects:
+  \*\* past (or "perfective"), present (or "progressive"), and future (or "predictive")
+  for each of:
+- two voices:
+  \*\* active (performing an action) and passive (receiving an action)
+  The participles represent aspect by retaining the vowel of the related verbal tense: '''i''', '''a''', '''o'''. In addition to carrying aspect, participles are the principal means of representing voice, with either '''nt''' or '''t''' following the vowel (see next section).
+
+### Adjectival participles
+
 The basic principle of the participles may be illustrated with the verb fali (to fall). Picture a cartoon character running off a cliff and hanging in the air for a moment. As it hangs in the air, it is falonta (about to fall). As it drops, it is falanta (falling). After it hits the ground, it is falinta (fallen).
 
 Active and passive pairs can be illustrated with the transitive verb haki (to chop). Picture a woodsman approaching a tree with an axe, intending to chop it down. He is hakonta (about to chop) and the tree is hakota (about to be chopped). While swinging the axe, he is hakanta (chopping) and the tree hakata (being chopped). After the tree has fallen, he is hakinta (having chopped) and the tree hakita (chopped).
@@ -309,14 +307,13 @@ Adjectival participles agree with nouns in number and case, just as other adject
 
     ili ŝparis la arbojn hakotajn (they spared the trees [that were] to be chopped down).
 
-
-### Compound tense ###
+### Compound tense
 
 Compound tenses are formed with the adjectival participles plus esti (to be) as the auxiliary verb. The participle reflects aspect and voice, while the verb carries tense. For example:
 
-* Present progressive: mi estas kaptanta (I am catching), mi estas kaptata (I am being caught)
-* Present perfect: mi estas kaptinta (I have caught), mi estas kaptita (I have been caught, I am caught)
-* Present prospective: mi estas kaptonta (I am going to catch / about to catch), mi estas kaptota (I am going to be caught / about to be caught)
+- Present progressive: mi estas kaptanta (I am catching), mi estas kaptata (I am being caught)
+- Present perfect: mi estas kaptinta (I have caught), mi estas kaptita (I have been caught, I am caught)
+- Present prospective: mi estas kaptonta (I am going to catch / about to catch), mi estas kaptota (I am going to be caught / about to be caught)
 
 These are not used as often as their English equivalents. For "I am going to the store", you would normally use the simple present mi iras ('I go') in Esperanto.
 
@@ -326,337 +323,472 @@ The tense and mood of esti can be changed in these compound tenses:
     Conditional future: mi estus kaptonta (I would be about to catch)
     Future present: mi estos kaptanta (I will be catching).
 
-
-### Synthetic forms ###
+### Synthetic forms
 
 Although such periphrastic constructions are familiar to speakers of most European languages, the option of contracting [esti + adjective] into a verb is sometimes seen for adjectival participles:
 
     Present perfect: mi estas kaptinta is equivalent to mi kaptintas (I have caught)
     Past perfect: mi estis kaptinta to mi kaptintis (I had caught)
 
-The active synthetic forms (i.e., abbreviated or contracted forms) are: 
+The active synthetic forms (i.e., abbreviated or contracted forms) are:
 
-| Synthetic Compound Tenses (Active Voice) | Simple Verb          | Progressive            | Perfect               | Prospective             |
-|------------------------------------------|----------------------|------------------------|-----------------------|-------------------------|
-| Past Tense                               | mi kaptis (I caught) | mi kaptantis (I was catching) | mi kaptintis (I had caught) | mi kaptontis (I was about to catch) |
-| Present Tense                            | mi kaptas (I catch)  | mi kaptantas (I am catching)  | mi kaptintas (I have caught) | mi kaptontas (I am about to catch)  |
-| Future Tense                             | mi kaptos (I will catch) | mi kaptantos (I will be catching) | mi kaptintos (I will have caught) | mi kaptontos (I will be about to catch) |
+| Synthetic Compound Tenses (Active Voice) | Simple Verb               | Progressive                        | Perfect                            | Prospective                              |
+| ---------------------------------------- | ------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------------- |
+| Past Tense                               | mi kaptis (I caught)      | mi kaptantis (I was catching)      | mi kaptintis (I had caught)        | mi kaptontis (I was about to catch)      |
+| Present Tense                            | mi kaptas (I catch)       | mi kaptantas (I am catching)       | mi kaptintas (I have caught)       | mi kaptontas (I am about to catch)       |
+| Future Tense                             | mi kaptos (I will catch)  | mi kaptantos (I will be catching)  | mi kaptintos (I will have caught)  | mi kaptontos (I will be about to catch)  |
 | Conditional Mood                         | mi kaptus (I would catch) | mi kaptantus (I would be catching) | mi kaptintus (I would have caught) | mi kaptontus (I would be about to catch) |
-| Infinitive                               | kapti (to catch)     | kaptanti (to be catching)  | kaptinti (to have caught) | kaptonti (to be about to catch)   |
-| Volitive Mood                            | mi kaptu (that I catch) | mi kaptantu (that I be catching) | mi kaptintu (that I have caught) | mi kaptontu (that I be about to catch)   |
+| Infinitive                               | kapti (to catch)          | kaptanti (to be catching)          | kaptinti (to have caught)          | kaptonti (to be about to catch)          |
+| Volitive Mood                            | mi kaptu (that I catch)   | mi kaptantu (that I be catching)   | mi kaptintu (that I have caught)   | mi kaptontu (that I be about to catch)   |
 
-Besides the active voice, there is a parallel passive paradigm, obtained by omitting the -n-: 
+Besides the active voice, there is a parallel passive paradigm, obtained by omitting the -n-:
 
-| Synthetic Compound Tenses (Passive Voice) | Simple Verb             | Progressive               | Perfect              | Prospective                   |
-|-------------------------------------------|-------------------------|---------------------------|----------------------|-------------------------------|
-| Past Tense                                | mi kaptis (I caught)    | mi kaptatis (I was getting caught) | mi kaptitis (I was caught) | mi kaptotis (I was about to be caught) |
-| Present Tense                             | mi kaptas (I catch)     | mi kaptatas (I am getting caught)   | mi kaptitas (I am caught) | mi kaptotas (I am about to be caught)  |
-| Future Tense                              | mi kaptos (I will catch)| mi kaptatos (I will be getting caught) | mi kaptitos (I will be caught) | mi kaptotos (I will be about to be caught) |
+| Synthetic Compound Tenses (Passive Voice) | Simple Verb               | Progressive                             | Perfect                         | Prospective                                 |
+| ----------------------------------------- | ------------------------- | --------------------------------------- | ------------------------------- | ------------------------------------------- |
+| Past Tense                                | mi kaptis (I caught)      | mi kaptatis (I was getting caught)      | mi kaptitis (I was caught)      | mi kaptotis (I was about to be caught)      |
+| Present Tense                             | mi kaptas (I catch)       | mi kaptatas (I am getting caught)       | mi kaptitas (I am caught)       | mi kaptotas (I am about to be caught)       |
+| Future Tense                              | mi kaptos (I will catch)  | mi kaptatos (I will be getting caught)  | mi kaptitos (I will be caught)  | mi kaptotos (I will be about to be caught)  |
 | Conditional Mood                          | mi kaptus (I would catch) | mi kaptatus (I would be getting caught) | mi kaptitus (I would be caught) | mi kaptotus (I would be about to be caught) |
-| Infinitive                                | kapti (to catch)        | kaptati (to be getting caught)  | kaptiti (to be caught) | kaptoti (to be about to be caught)   |
-| Volitive Mood                             | mi kaptu (that I catch) | mi kaptatu (that I get caught) | mi kaptitu (that I be caught) | mi kaptotu (that I be about to get caught) |
-
+| Infinitive                                | kapti (to catch)          | kaptati (to be getting caught)          | kaptiti (to be caught)          | kaptoti (to be about to be caught)          |
+| Volitive Mood                             | mi kaptu (that I catch)   | mi kaptatu (that I get caught)          | mi kaptitu (that I be caught)   | mi kaptotu (that I be about to get caught)  |
 
 A few of these forms, notably -intus (conditional past progressive) and -atas (present passive), have entered common usage, but most are rare because they are more difficult to parse than periphrastic constructions.
 
-### Nominal participles ###
+### Nominal participles
 
 Participles may be turned into adverbs or nouns by replacing the adjectival suffix -a with -e or -o. This means that, in Esperanto, some nouns may be inflected for tense.
 
-A nominal participle indicates one who participates in the action specified by the verbal root. For example, esperinto is a "hoper" (past tense), or one who had been hoping. 
+A nominal participle indicates one who participates in the action specified by the verbal root. For example, esperinto is a "hoper" (past tense), or one who had been hoping.
 
-### Adverbial participles ### 
+### Adverbial participles
+
 Adverbial participles are used for circumstantial participial phrases:
 
     Kaptinte la pilkon, li ekkuris golen (Having caught the ball, he ran for the goal).
 
-
-### Conditional and tenseless participles (unofficial) ###
+### Conditional and tenseless participles (unofficial)
 
 Occasionally, the participle paradigm will be extended to include conditional participles, with the vowel u (-unt-, -ut-).[27] If, for example, in our tree-chopping example, the woodsman found that the tree had been spiked and so couldn't be cut down after all, he would be hakunta and the tree hakuta (he, the one "who would chop", and the tree, the one that "would be chopped").
 
 This can also be illustrated with the verb prezidi (to preside). Just after the recount of the 2000 United States presidential election:
 
-* then-president Bill Clinton was still prezidanto (current president) of the United States,
-* president-elect George W. Bush was declared prezidonto (president-to-be),
-* the previous president George H. W. Bush was a prezidinto (former president), and
-* the contending candidate Al Gore was prezidunto (would-be president – that is, if the recount had gone differently).
+- then-president Bill Clinton was still prezidanto (current president) of the United States,
+- president-elect George W. Bush was declared prezidonto (president-to-be),
+- the previous president George H. W. Bush was a prezidinto (former president), and
+- the contending candidate Al Gore was prezidunto (would-be president – that is, if the recount had gone differently).
 
-Tense-neutral words such as prezidento and studento are formally considered distinct nominal roots, not derivatives of the verbs prezidi and studi. 
+Tense-neutral words such as prezidento and studento are formally considered distinct nominal roots, not derivatives of the verbs prezidi and studi.
 
-==Negation==
-A statement is made negative by using ''ne'' or one of the negative ''(neni-)'' Table of correlatives (Esperanto)|correlatives. Ordinarily, only one negative word is allowed per clause:
+## Negation
 
-: ''Mi '''ne''' faris ion ajn.'' I didn't do anything.
+A statement is made negative by using ne or one of the negative (neni-) correlatives. Ordinarily, only one negative word is allowed per clause:
 
+Mi ne faris ion ajn. I didn't do anything.
 Two negatives (double negative) within a clause cancel each other out, with the result being an affirmative sentence.
 
-: ''Mi '''ne''' faris '''nenion'''. Mi ja faris ion.'' It is not the case that I did nothing. I did do something.
+Mi ne faris nenion. Mi ja faris ion. It is not the case that I did nothing. I did do something.
+The word ne comes before the word it negates:
 
-The word ''ne'' comes before the word it negates:
-: '''''Ne''' <u>mi</u> devas skribi tion'' (It's not I who has to write this)
-: ''Mi '''ne''' <u>devas</u> skribi tion'' (I don't have to write this)
-: ''Mi devas '''ne''' <u>skribi</u> tion'' (I must not write this)
-: ''Mi devas skribi '''ne''' <u>tion</u>'' (It's not this that I have to write)
+Ne mi devas skribi tion (It's not I who has to write this)
+Mi ne devas skribi tion (I don't have to write this)
+Mi devas ne skribi tion (I must not write this)
+Mi devas skribi ne tion (It's not this that I have to write)
+The latter will frequently be reordered as Ne tion mi devas skribi depending on the flow of information.
 
-The latter will frequently be reordered as '''''Ne''' <u>tion</u> mi devas skribi'' depending on the flow of information.
+## Questions
 
-==Questions==
+"Wh" questions are asked with one of the interrogative/relative (ki-) correlatives. They are commonly placed at the beginning of the sentence, but different word orders are allowed for stress:
 
+Li scias, kion vi faris (He knows what you did.)
+Kion vi faris? (What did you do?)
+Vi faris kion? (You did what?)
+Yes/no questions are marked with the conjunction ĉu (whether):
 
-"Wh" questions are asked with one of the interrogative/relative ''(ki-'') [[Table of correlatives (Esperanto)|correlatives]]. They are commonly placed at the beginning of the sentence, but different word orders are allowed for stress:
+Mi ne scias, ĉu li venos (I don't know whether he'll come)
+Ĉu li venos? (Will he come?)
+Such questions can be answered jes (yes) or ne (no) in the European fashion of aligning with the polarity of the answer, or ĝuste (correct) or malĝuste (incorrect) in the Japanese fashion of aligning with the polarity of the question:
 
-:''Li scias, '''kion''' vi faris'' (He knows what you did.)
-:'''''Kion''' vi faris?'' (What did you do?)
-:''Vi faris '''kion'''?'' (You did ''what?)''
-
-Yes/no questions are marked with the conjunction ''ĉu'' (whether):
-
-:''Mi ne scias, '''ĉu''' li venos'' (I don't know whether he'll come)
-:'''''Ĉu''' li venos?'' (Will he come?)
-
-Such questions can be answered ''jes'' (yes) or ''ne'' (no) in the European fashion of aligning with the polarity of the answer, or ''ĝuste'' (correct) or ''malĝuste'' (incorrect) in the Japanese fashion of aligning with the polarity of the question:
-
-:''Ĉu vi ne iris?'' (Did you not go?)
-:''— '''Ne''', mi ne iris'' (No, I didn't go); ''— '''Jes''', mi iris'' (Yes, I went)
-:''— '''Ĝuste''', mi ne iris'' (Correct, I didn't go); ''— '''Malĝuste''', mi iris'' (Incorrect, I did go)
-
+Ĉu vi ne iris? (Did you not go?)
+— Ne, mi ne iris (No, I didn't go); — Jes, mi iris (Yes, I went)
+— Ĝuste, mi ne iris (Correct, I didn't go); — Malĝuste, mi iris (Incorrect, I did go)
 (Note that Esperanto questions may have the same word order as statements.)
 
-See more on https://en.wikipedia.org/wiki/Interrogatives_in_Esperanto
+## Conjunctions
 
-==Conjunctions==
-Basic Esperanto [[Grammatical conjunction|conjunctions]] are ''kaj'' (both/and), ''aŭ'' (either/or), ''nek'' (neither/nor), ''se'' (if), ''ĉu'' (whether/or), ''sed'' (but), ''anstataŭ'' (instead of), ''kiel'' (like, as), ''ke'' (that). Like prepositions, they ''precede'' the phrase or clause they modify:
+Basic Esperanto conjunctions are kaj (both/and), aŭ (either/or), nek (neither/nor), se (if), ĉu (whether/or), sed (but), anstataŭ (instead of), kiel (like, as), ke (that). Like prepositions, they precede the phrase or clause they modify:
 
-:''Mi vidis '''kaj''' <u>lin</u> '''kaj''' <u>lian amikon</u>'' (I saw both him and his friend)
-:''Estis '''nek''' <u>hele</u> '''nek''' <u>agrable</u>'' (it was neither clear [sunny] nor pleasant)
-:'''''ĉu''' <u>pro kaprico</u>, '''ĉu''' <u>pro natura lingvo-evoluo</u>'' (whether by whim, or by natural language development)
-:''Li volus, '''ke''' <u>ni iru</u>'' (he would like us to go)
+Mi vidis kaj lin kaj lian amikon (I saw both him and his friend)
+Estis nek hele nek agrable (it was neither clear [sunny] nor pleasant)
+ĉu pro kaprico, ĉu pro natura lingvo-evoluo (whether by whim, or by natural language development)
+Li volus, ke ni iru (he would like us to go)
+Conjunctions followed by incomplete clauses may be mistaken for prepositions, but unlike prepositions, they may be followed by an accusative noun phrase if the implied full clause requires it, as in the following example from Don Harlow:
 
-Conjunctions followed by incomplete clauses may be mistaken for prepositions, but unlike prepositions, they may be followed by an accusative noun phrase if the implied full clause requires it, as in the following example from [[Don Harlow]]:
+Li traktis min kiel (li traktus) princon (He treated me as (he would) a prince)
+Li traktis min kiel princo (traktus min) (He treated me as a prince (would))
 
-:''Li traktis min '''kiel''' (li traktus) <u>princon</u>'' (He treated me as (he would) a prince)
-:''Li traktis min '''kiel''' <u>princo</u> (traktus min)'' (He treated me as a prince (would))
+## Interjections
 
+Interjections may be derived from bare affixes or roots: ek! (get going!), from the perfective prefix; um (um, er), from the indefinite/undefined suffix; fek! (shit!), from feki (to defecate).
 
-==Interjections==
-[[Interjection]]s may be derived from bare affixes or roots: ''ek!'' (get going!), from the perfective prefix; ''um'' (um, er), from the indefinite/undefined suffix; ''fek!'' (shit!), from ''feki'' (to defecate).
+## Word formation
 
-==Word formation==
-{{main|Esperanto vocabulary#Word formation}}
-Esperanto [[morphology (linguistics)|derivational morphology]] uses a large number of lexical and grammatical affixes ([[Prefix (linguistics)|prefixes]] and [[suffix]]es). These, along with compounding, decrease the memory load of the language, as they allow for the expansion of a relatively small number of basic roots into a large vocabulary. For example, the Esperanto root ''vid-'' (see) regularly corresponds to several dozen English words: ''see (saw, seen), sight, blind, vision, visual, visible, nonvisual, invisible, unsightly, glance, view, vista, panorama, observant'' etc., though there are also separate Esperanto roots for a couple of these concepts.
+Esperanto derivational morphology uses a large number of lexical and grammatical affixes (prefixes and suffixes). These, along with compounding, decrease the memory load of the language, as they allow for the expansion of a relatively small number of basic roots into a large vocabulary. For example, the Esperanto root vid- (see) regularly corresponds to several dozen English words: see (saw, seen), sight, blind, vision, visual, visible, nonvisual, invisible, unsightly, glance, view, vista, panorama, observant etc., though there are also separate Esperanto roots for a couple of these concepts.
 
-See also https://en.wikipedia.org/wiki/Esperanto_vocabulary#Word_formation
+## Numbers
 
-==Numbers==
+### Numerals
 
-===Numerals===
-The [[Cardinal number|cardinal]] [[Numeral (linguistics)|numerals]] are:
+The cardinal numerals are:
 
-:''nul'' or ''nulo'' (zero)
-:''unu'' (one)
-:''du'' (two)
-:''tri'' (three)
-:''kvar'' (four)
-:''kvin'' (five)
-:''ses'' (six)
-:''sep'' (seven)
-:''ok'' (eight)
-:''naŭ'' (nine)
-:''dek'' (ten)
-:''cent'' (hundred)
-:''mil'' (thousand)
+- nul or nulo (zero)
+- unu (one)
+- du (two)
+- tri (three)
+- kvar (four)
+- kvin (five)
+- ses (six)
+- sep (seven)
+- ok (eight)
+- naŭ (nine)
+- dek (ten)
+- cent (hundred)
+  -mil (thousand)
 
-Grammatically, these are numerals, not nouns, and as such do not take the accusative case suffix ''-n''. However, ''unu'' (and only ''unu'') is sometimes used adjectivally or demonstratively, meaning "a certain", and in such cases it may take the plural affix ''-j,'' just as the demonstrative pronoun ''tiu'' does:
-:''unu'''j''' homo'''j''''' "certain people";
-:''ili kuris unu'''j''' post la aliaj'' "they ran some after others".
-In such use ''unu'' is irregular in that it only rarely takes the accusative/prepositional case affix ''-n'' in the singular, but regularly does so in the plural:
-:''ia'''n''' unu ideo'''n''''' "some particular idea",
+Grammatically, these are numerals, not nouns, and as such do not take the accusative case suffix -n. However, unu (and only unu) is sometimes used adjectivally or demonstratively, meaning "a certain", and in such cases it may take the plural affix -j, just as the demonstrative pronoun tiu does:
+
+unuj homoj "certain people";
+ili kuris unuj post la aliaj "they ran some after others".
+
+In such use unu is irregular in that it only rarely takes the accusative/prepositional case affix -n in the singular, but regularly does so in the plural:
+
+ian unu ideon "some particular idea",
 but
-:''unuj objektoj venis en unu'''jn''' mano'''jn''', aliaj en aliajn manojn'' "some objects came into certain hands, others into other hands".
-Additionally, when counting off, the final ''u'' of ''unu'' may be dropped, as if it were a part-of-speech suffix:
-:''Un'! Du! Tri! Kvar!''
+unuj objektoj venis en unujn manojn, aliaj en aliajn manojn "some objects came into certain hands, others into other hands".
+Additionally, when counting off, the final u of unu may be dropped, as if it were a part-of-speech suffix:
 
-===Higher numbers===
-At numbers beyond the thousands, the international roots ''miliono'' (million) and ''miliardo'' (milliard) are used. Beyond this there are two systems: A ''[[Long and short scales|billion]]'' in most English-speaking countries is different from a ''billion'' in most other countries (10<sup>9</sup> ''vs.'' 10<sup>12</sup> respectively; that is, a thousand million ''vs.'' a million million). The international root ''biliono'' is likewise ambiguous in Esperanto, and is deprecated for this reason. An unambiguous system based on adding the Esperanto suffix ''-iliono'' to numerals is generally used instead, sometimes supplemented by a second suffix ''-iliardo:''<ref>"[https://reta-vortaro.de/revo/art/bilion.html biliono]" at Reta Vortaro</ref>
+Un'! Du! Tri! Kvar!
 
-:10<sup>6</sup>: ''miliono''
-:10<sup>9</sup>: ''miliardo'' (or ''mil milionoj'')
-:10<sup>12</sup>: ''duiliono''
-:10<sup>15</sup>: ''duiliardo'' (or ''mil duilionoj'')
-:10<sup>18</sup>: ''triiliono''
-:10<sup>21</sup>: ''triiliardo'' (or ''mil triilionoj'')
-:''... etc.''
+### Higher numbers
 
-Note that these forms are grammatically nouns, not numerals, and therefore cannot modify a noun directly: ''mil homojn'' (a thousand people [accusative]) but ''milionon da homoj'' (a million people [accusative]).
+At numbers beyond the thousands, the international roots miliono (million) and miliardo (milliard) are used. Beyond this there are two systems: A billion in most English-speaking countries is different from a billion in most other countries (109 vs. 1012 respectively; that is, a thousand million vs. a million million). The international root biliono is likewise ambiguous in Esperanto, and is deprecated for this reason. An unambiguous system based on adding the Esperanto suffix -iliono to numerals is generally used instead, sometimes supplemented by a second suffix -iliardo:[29]
 
-===Compound numerals and derivatives===
-Tens and hundreds are pronounced and written together with their multipliers as one word, while all other parts of a number are pronounced and written separately (''dudek'' 20, ''dek du'' 12, ''dudek du'' 22, ''dek du mil'' 12,000).<ref>''Plena Manlibro de Esperanta Gramatiko'' [https://bertilow.com/pmeg/gramatiko/nombroj/vortetoj/formoj.html]</ref> Ordinals are formed with the adjectival suffix ''-a,'' quantities with the nominal suffix ''-o,'' multiples with ''-obl-,'' fractions with ''‑on‑'', collectives with ''‑op‑'', and repetitions with the root ''‑foj‑''.
+10^6: miliono
+10^9: miliardo (or mil milionoj)
+10^12: duiliono
+10^15: duiliardo (or mil duilionoj)
+10^18: triiliono
+10^21: triiliardo (or mil triilionoj)
+... etc.
 
-:''sescent sepdek kvin'' (675)
-:''tria'' (third [as in ''first, second, third''])
-:''trie'' (thirdly)
-:''dudeko'' (a score [20])
-:''duobla'' (double)
-:''kvarono'' (one fourth, a quarter)
-:''duope'' (by twos)
-:''dufoje'' (twice)
+Note that these forms are grammatically nouns, not numerals, and therefore cannot modify a noun directly: mil homojn (a thousand people [accusative]) but milionon da homoj (a million people [accusative]).
 
-The particle ''po'' is used to mark distributive numbers, that is, the idea of distributing a certain number of items to each member of a group:
-:''mi donis al ili po tri pomojn'' or ''pomojn mi donis al ili po tri'' (I gave [to] them three apples each).
+### Compound numerals and derivatives
 
-Note that particle ''po'' forms a phrase with the numeral ''tri'' and is not a preposition for the noun phrase ''tri pomojn,'' so it does not prevent a grammatical object from taking the accusative case.
+Tens and hundreds are pronounced and written together with their multipliers as one word, while all other parts of a number are pronounced and written separately (dudek 20, dek du 12, dudek du 22, dek du mil 12,000).[30] Ordinals are formed with the adjectival suffix -a, quantities with the nominal suffix -o, multiples with -obl-, fractions with ‑on‑, collectives with ‑op‑, and repetitions with the root ‑foj‑.
 
+sescent sepdek kvin (675)
+tria (third [as in first, second, third])
+trie (thirdly)
+dudeko (a score [20])
+duobla (double)
+kvarono (one fourth, a quarter)
+duope (by twos)
+dufoje (twice)
+The particle po is used to mark distributive numbers, that is, the idea of distributing a certain number of items to each member of a group:
 
-==Comparisons==
-Comparisons are made with the adverbial correlatives ''tiel ... kiel'' (as ... as), the adverbial roots ''pli'' (more) and ''plej'' (most), the antonym prefix ''mal-,'' and the preposition ''ol'' (than):
+mi donis al ili po tri pomojn or pomojn mi donis al ili po tri (I gave [to] them three apples each).
+Note that particle po forms a phrase with the numeral tri and is not a preposition for the noun phrase tri pomojn, so it does not prevent a grammatical object from taking the accusative case.
 
-:''mi skribas tiel bone kiel vi'' (I write as well as you)
-:''tiu estas pli bona ol tiu'' (this one is better than that one)
-:''tio estas la plej bona'' (that's the best)
-:''la mia estas malpli multekosta ol la via'' (mine is less expensive than yours)
+## Comparisons
 
-Implied comparisons are made with ''tre'' (very) and ''tro'' (too [much]).
+Comparisons are made with the adverbial correlatives tiel ... kiel (as ... as), the adverbial roots pli (more) and plej (most), the antonym prefix mal-, and the preposition ol (than):
 
-Phrases like "The more people, the smaller the portions" and "All the better!" are translated using ''ju'' and ''des'' in place of "the":
-:'''''Ju''' pli da homoj, '''des''' malpli grandaj la porcioj'' (The more people, the smaller the portions)
-:'''''Des''' pli bone!'' (All the better!)
+mi skribas tiel bone kiel vi (I write as well as you)
+tiu estas pli bona ol tiu (this one is better than that one)
+tio estas la plej bona (that's the best)
+la mia estas malpli multekosta ol la via (mine is less expensive than yours)
+Implied comparisons are made with tre (very) and tro (too [much]).
 
+Phrases like "The more people, the smaller the portions" and "All the better!" are translated using ju and des in place of "the":
 
-==Word order==
-Esperanto has a fairly [[free word order|flexible word order]]. However, word order does play a role in Esperanto grammar, even if a much lesser role than it does in English. For example, the negative particle ''ne'' generally comes before the element being negated; negating the verb has the effect of negating the entire clause (or rather, there is ambiguity between negating the verb alone and negating the clause):<ref>''Plena Manlibro de Esperanta Gramatiko'' [https://bertilow.com/pmeg/gramatiko/neado.html]</ref>
-:''mi '''ne''' iris'' 'I didn't go'
-:''mi '''ne''' iris, mi revenis'' 'I didn't go, I came back'
-:'''''ne''' mi iris'' / ''iris ne mi'' 'it wasn't me who went'
-:''mi iris '''ne''' al la butiko '''sed''' hejmen'' 'I went not to the shop but home'.
-However, when the entire clause is negated, the ''ne'' may be left till last:
-:''mi iris '''ne''''' Literally 'I went not' (i.e., 'I didn't go')
+Ju pli da homoj, des malpli grandaj la porcioj (The more people, the smaller the portions)
+Des pli bone! (All the better!)
 
-Phrases typically follow a [[topic–comment]] (or [[theme–rheme]]) order: Known information, the topic under discussion, is introduced first, and what one has to say about it follows. (I went not: As for my going, there was none.) For example, ''ne iris mi'', would suggest that the possibility of not having gone was under discussion, and ''mi'' is given as an example of one who did not go.
+# Table words (correlatives)
 
-Compare:<ref>Sergio Pokrovskij (2007) [https://lingvakritiko.com/2007/02/05/la-artikolo/#vortordo 'La artikolo'], in ''Lingva Kritiko: Studoj kaj notoj pri la Internacia Lingvo''</ref>
+Correlatives (Korelativoj or Tabelvortoj) is a system of 45 words, partly pronouns (kiu – who, tiu – this, kies – whose, etc), partly adverbs (kie – where, tie – there, kiom – how much, etc).
 
-:''Pasintjare mi feriis en Italujo''
-::'Last year I vacationed in Italy' (Italy was the place I went on holiday)
-:''En Italujo mi feriis pasintjare''
-::'I vacationed in Italy last year' (last year was when I went)
-:''En Italujo pasintjare mi feriis''
-::'In Italy last year I went on vacation' (a vacation is why I went)
-:''En Italujo pasintjare feriis mi''
-::(I am the one who went)
+### System of correlatives
 
-===The noun phrase===
-Within a noun phrase, either the order ''adjective–noun'' or ''noun–adjective'' may occur, though the former is somewhat more common. 
-:''blua ĉielo'' 'a blue sky'
-:''ĉielo blua'' (same)
+Every correlative consists of two parts:
 
-Because of adjectival agreement, an adjective may be separated from the rest of the noun phrase without confusion, though this is only found in poetry, and then only occasionally:<ref name=wells/> 
-:''Mi estas certa, ke brilan vi havos sukceson'' 'I am certain that you will have a brilliant success',
+- The first part is one of the following:
+  ki- = interrogative (demandovorto)
+  ti- = demonstrative (montrovorto)
+  i- = indefinite (nedifinita vorto)
+  ĉi- = universal (tutampleksa vorto)
+  neni- = negation (nea vorto)
+- The second part is one of the following:
+  -u = individuality (individuo)
+  -o = thing (aĵo)
+  -a = quality (kvalito, eco)
+  -es = possessor (posedo)
+  -e = place (loko)
+  -am = time (tempo)
+  -al = cause (kaŭzo)
+  -el = manner (maniero)
+  -om = quantity (kvanto)
 
-Possessive pronouns strongly favor initial position, though the opposite is well known from ''Patro nia'' 'Our Father' in the [[Lord's Prayer|Paternoster]]. 
+By combining these two sets, it is possible to form 45 words:
 
-Less flexibility occurs with demonstratives and the article, with ''demonstrative–noun'' being the norm, as in English:
-:''la ĉielo'' "the sky"
-:''tiu ĉielo'' 'that sky'
-::also ''ĉielo tiu''
-:''la blua ĉielo'' "the blue sky"
-:''tiu blua ĉielo'' 'that blue sky'
-Noun&ndash;demonstrative order is used primarily for emphasis (''plumo tiu'' '<u>that</u> pen'). ''La'' occurs at the very beginning of the noun phrase except rarely in poetry.
+|                              | Interrogative (What)              | Demonstrative (That)       | Indefinite (Some)                 | Universal (Each, every)         | Negative (No)              |
+| ---------------------------- | --------------------------------- | -------------------------- | --------------------------------- | ------------------------------- | -------------------------- |
+| **Kind of, sort of**         | kia (what kind of, what a)        | tia (that kind of, such a) | ia (some kind of)                 | ĉia (every kind of)             | nenia (no kind of)         |
+| **Reason**                   | kial (why)                        | tial (therefore)           | ial (for some reason)             | ĉial (for all reasons)          | nenial (for no reason)     |
+| **Time**                     | kiam (when)                       | tiam (then)                | iam (at some time, once)          | ĉiam (always)                   | neniam (never)             |
+| **Place**                    | kie (where)                       | tie (there)                | ie (somewhere)                    | ĉie (everywhere)                | nenie (nowhere)            |
+| **Motion**                   | kien ([to] where, whither)        | tien ([to] there, thither) | ien ([to] somewhere)              | ĉien ([to] everywhere)          | nenien ([to] nowhere)      |
+| **Manner**                   | kiel (how, as, like, in what way) | tiel (thus, as, so)        | iel (somehow)                     | ĉiel (in every way)             | neniel (no-how, in no way) |
+| **Possessive**               | kies (whose)                      | ties (its, that one's)     | ies (someone's)                   | ĉies (everyone's, everybody's)  | nenies (no one's)          |
+| **Demonstrative pronoun**    | kio (what)                        | tio (that)                 | io (something)                    | ĉio (everything)                | nenio (nothing)            |
+| **Amount**                   | kiom (how much)                   | tiom (that much)           | iom (some, a little, a bit)       | ĉiom (all)                      | neniom (none)              |
+| **Demonstrative determiner** | kiu (who, which one, which X)     | tiu (that one, that X)     | iu (someone, a certain X, some X) | ĉiu (everyone, each X, all X's) | neniu (no one, no X)       |
 
-Even less flexibility occurs with numerals, with ''numeral–noun'' being almost universal:
-:''sep bluaj ĉieloj'' 'seven blue heavens',
-and noun&ndash;numeral being practically unheard of outside poetry.
+### Word order
 
-Adjective–noun order is much freer. With simple adjectives, adjective–noun order predominates, especially if the noun is long or complex. However, a long or complex adjective typically comes after the noun, in some cases parallel to structures in English, as in the second example below:<ref name=wells/>
-:''homo malgrandanima kaj ege avara'' 'a petty and extremely greedy person'
-:''vizaĝo plena de cikatroj'' 'a face full of scars'
-:''ideo fantazia sed tamen interesa'' 'a fantastic but still interesting idea'
+Esperanto has a fairly flexible word order. However, word order does play a role in Esperanto grammar, even if a much lesser role than it does in English. For example, the negative particle ne generally comes before the element being negated; negating the verb has the effect of negating the entire clause (or rather, there is ambiguity between negating the verb alone and negating the clause):[31]
 
+mi ne iris 'I didn't go'
+mi ne iris, mi revenis 'I didn't go, I came back'
+ne mi iris / iris ne mi 'it wasn't me who went'
+mi iris ne al la butiko sed hejmen 'I went not to the shop but home'.
+However, when the entire clause is negated, the ne may be left till last:
+
+mi iris ne Literally 'I went not' (i.e., 'I didn't go')
+Phrases typically follow a topic–comment (or theme–rheme) order: Known information, the topic under discussion, is introduced first, and what one has to say about it follows. (I went not: As for my going, there was none.) For example, ne iris mi, would suggest that the possibility of not having gone was under discussion, and mi is given as an example of one who did not go.
+
+Compare:
+
+Pasintjare mi feriis en Italujo
+'Last year I vacationed in Italy' (Italy was the place I went on holiday)
+En Italujo mi feriis pasintjare
+'I vacationed in Italy last year' (last year was when I went)
+En Italujo pasintjare mi feriis
+'In Italy last year I went on vacation' (a vacation is why I went)
+En Italujo pasintjare feriis mi
+(I am the one who went)
+
+### The noun phrase
+
+Within a noun phrase, either the order adjective–noun or noun–adjective may occur, though the former is somewhat more common.
+
+blua ĉielo 'a blue sky'
+ĉielo blua (same)
+Because of adjectival agreement, an adjective may be separated from the rest of the noun phrase without confusion, though this is only found in poetry, and then only occasionally:[33]
+
+Mi estas certa, ke brilan vi havos sukceson 'I am certain that you will have a brilliant success',
+Possessive pronouns strongly favor initial position, though the opposite is well known from Patro nia 'Our Father' in the Paternoster.
+
+Less flexibility occurs with demonstratives and the article, with demonstrative–noun being the norm, as in English:
+
+la ĉielo "the sky"
+tiu ĉielo 'that sky'
+also ĉielo tiu
+la blua ĉielo "the blue sky"
+tiu blua ĉielo 'that blue sky'
+Noun–demonstrative order is used primarily for emphasis (plumo tiu 'that pen'). La occurs at the very beginning of the noun phrase except rarely in poetry.
+
+Even less flexibility occurs with numerals, with numeral–noun being almost universal:
+
+sep bluaj ĉieloj 'seven blue heavens',
+and noun–numeral being practically unheard of outside poetry.
+
+Adjective–noun order is much freer. With simple adjectives, adjective–noun order predominates, especially if the noun is long or complex. However, a long or complex adjective typically comes after the noun, in some cases parallel to structures in English, as in the second example below:[33]
+
+homo malgrandanima kaj ege avara 'a petty and extremely greedy person'
+vizaĝo plena de cikatroj 'a face full of scars'
+ideo fantazia sed tamen interesa 'a fantastic but still interesting idea'
 Adjectives also normally occur after correlative nouns. Again, this is one of the situations where adjectives come after nouns in English:
-:''okazis io stranga'' 'something strange happened'
-:''ne ĉio brilanta estas diamanto'' 'not everything shiny is a diamond'
-Changing the word order here can change the meaning, at least with the correlative ''nenio'' 'nothing':
-:''li manĝis nenion etan'' 'he ate nothing little'
-:''li manĝis etan nenion'' 'he ate a little nothing'
 
+okazis io stranga 'something strange happened'
+ne ĉio brilanta estas diamanto 'not everything shiny is a diamond'
+Changing the word order here can change the meaning, at least with the correlative nenio 'nothing':
+
+li manĝis nenion etan 'he ate nothing little'
+li manĝis etan nenion 'he ate a little nothing'
 With multiple words in a phrase, the order is typically demonstrative/pronoun–numeral–(adjective/noun):
-:''miaj du grandaj amikoj ~ miaj du amikoj grandaj'' 'my two great friends'.
 
-In [[prepositional phrase]]s, the preposition is ''required'' to come at the front of the noun phrase (that is, even before the article ''la''), though it is commonly replaced by turning the noun into an adverb:
-:''al la ĉielo'' 'to the sky' or ''ĉielen'' 'skywards', never ''*ĉielo al''
+miaj du grandaj amikoj ~ miaj du amikoj grandaj 'my two great friends'.
+In prepositional phrases, the preposition is required to come at the front of the noun phrase (that is, even before the article la), though it is commonly replaced by turning the noun into an adverb:
 
-===Constituent order===
-[[Constituent order]] ''within'' a clause is generally free, apart from copular clauses.
+al la ĉielo 'to the sky' or ĉielen 'skywards', never \*ĉielo al
 
-The default order is [[subject–verb–object]], though any order may occur, with subject and object distinguished by case, and other constituents distinguished by prepositions:
-:''la hundo ĉasis la katon'' 'the dog chased/hunted the cat'
-:''la katon ĉasis la hundo''
-:''ĉasis la hundo la katon''
-:''ĉasis la katon la hundo''
-:''la hundo la katon ĉasis''
-:''la katon la hundo ĉasis''
-The expectation of a topic–comment (theme–rheme) order apply here, so the context will influence word order: in ''la katon ĉasis la hundo'', the cat is the topic of the conversation, and the dog is the news; in ''la hundo la katon ĉasis'', the dog is the topic of the conversation, and it is the action of chasing that is the news; and in ''ĉasis la hundo la katon'', the action of chasing is already the topic of discussion.
+### Constituent order
+
+Constituent order within a clause is generally free, apart from copular clauses.
+
+The default order is subject–verb–object, though any order may occur, with subject and object distinguished by case, and other constituents distinguished by prepositions:
+
+la hundo ĉasis la katon 'the dog chased/hunted the cat'
+la katon ĉasis la hundo
+ĉasis la hundo la katon
+ĉasis la katon la hundo
+la hundo la katon ĉasis
+la katon la hundo ĉasis
+The expectation of a topic–comment (theme–rheme) order apply here, so the context will influence word order: in la katon ĉasis la hundo, the cat is the topic of the conversation, and the dog is the news; in la hundo la katon ĉasis, the dog is the topic of the conversation, and it is the action of chasing that is the news; and in ĉasis la hundo la katon, the action of chasing is already the topic of discussion.
 
 Context is required to tell whether
-:''la hundo ĉasis la katon en la ĝardeno''
+
+la hundo ĉasis la katon en la ĝardeno
 means the dog chased a cat which was in the garden, or there, in the garden, the dog chased the cat. These may be disambiguated with
-:''la hundo ĉasis la katon, kiu estis en la ĝardeno''
-::'The dog chased the cat, which was in the garden'
+
+la hundo ĉasis la katon, kiu estis en la ĝardeno
+'The dog chased the cat, which was in the garden'
 and
-:''en la ĝardeno, la hundo ĉasis la katon''
-::'In the garden, the dog chased the cat'.
 
-Of course, if it chases the cat in''to'' the garden, the case of 'garden' would change:
-:''la hundo ĉasis la katon en la ĝardeno'''n''''', ''en la ĝardeno'''n''' la hundo ĉasis la katon'', etc.
+en la ĝardeno, la hundo ĉasis la katon
+'In the garden, the dog chased the cat'.
+Of course, if it chases the cat into the garden, the case of 'garden' would change:
 
-Within copulative clauses, however, there are restrictions. [[Copula (linguistics)|Copulas]] are words such as ''esti'' 'be', ''iĝi'' 'become', ''resti'' 'remain', and ''ŝajni'' 'seem', for which neither noun phrase takes the accusative case. In such cases only two orders are generally found: noun-copula-predicate and, much less commonly, predicate-copula-noun.<ref name=wells>John Wells, 1978, ''Lingvistikaj aspektoj de Esperanto'', p 42 ''ff''</ref>
+la hundo ĉasis la katon en la ĝardenon, en la ĝardenon la hundo ĉasis la katon, etc.
+Within copulative clauses, however, there are restrictions. Copulas are words such as esti 'be', iĝi 'become', resti 'remain', and ŝajni 'seem', for which neither noun phrase takes the accusative case. In such cases only two orders are generally found: noun-copula-predicate and, much less commonly, predicate-copula-noun.[33]
 
 Generally, if a characteristic of the noun is being described, the choice between the two orders is not important:
-:''sovaĝa estas la vento'' 'wild is the wind', ''la vento estas sovaĝa'' 'the wind is wild'
-However, ''la vento sovaĝa estas'' is unclear, at least in writing, as it could be interpreted as 'the wild wind exists.'
+
+sovaĝa estas la vento 'wild is the wind', la vento estas sovaĝa 'the wind is wild'
+However, la vento sovaĝa estas is unclear, at least in writing, as it could be interpreted as 'the wild wind exists.'
 
 When two noun phrases are linked by a copula, greater chance exists for ambiguity, at least in writing where prosody is not a cue. A demonstrative may help:
-:''bruto estas tiu viro'' 'that man is a brute'.
+
+bruto estas tiu viro 'that man is a brute'.
 But in some cases word order is the only clue, in which case the subject comes before the predicate:
-:''glavoj iĝu plugiloj'' 'let swords become ploughs'
-:''plugiloj iĝu glavoj'' 'let ploughs become swords'.
 
-===Attributive phrases and clauses===
-In the sentence above, ''la hundo ĉasis la katon, kiu estis en la ĝardeno'' 'the dog chased the cat, which was in the garden', the [[relative pronoun]] ''kiu'' 'which' is restricted to a position ''after'' the noun 'cat'. In general, [[relative clause]]s and attributive prepositional phrases follow the noun they modify.
+glavoj iĝu plugiloj 'let swords become ploughs'
+plugiloj iĝu glavoj 'let ploughs become swords'.
 
-[[Attributive]] prepositional phrases, which are dependent on nouns, include genitives (''la libro de Johano'' 'John's book') as well as ''la kato en la ĝardeno'' 'the cat in the garden' in the example above. Their order cannot be reversed: neither ''*la de Johano libro'' nor ''*la en la ĝardeno kato'' is possible. This behavior is more restrictive than prepositional phrases which are dependent on verbs, and which can be moved around: both ''ĉasis en la ĝardeno'' and ''en la ĝardeno ĉasis'' are acceptable for 'chased in the garden'.
+### Attributive phrases and clauses
 
-Relative clauses are similar, in that they are attributive and are subject to the same word-order constraint, except that rather than being linked by a preposition, the two elements are linked by a [[relative pronoun]] such as ''kiu'' 'which':
-:''fuĝis la kato, kiun ĝi ĉasis'' 'the cat which it chased fled'
-:''mi vidis la hundon, kiu ĉasis la katon'' 'I saw the dog which chased the cat'
-Note that the noun and its adjacent relative pronoun do not agree in case. Rather, their cases depend on their relationships with their respective verbs.<ref>This is parallel to the rather archaic distinction in English between 'who' and 'whom'. Other sequences of case are possible, though with different readings: ''fuĝis la hundo, kiu ĉasis ĝin'' 'the dog which chased it fled'; ''mi vidis la katon, kiun la hundo ĉasis'' 'I saw the cat, which the dog chased'.</ref> However, they do agree in number:
-:''fuĝis la kato'''j''', kiu'''j'''n ĝi ĉasis'' 'the cat'''s''' which it chased fled'
+In the sentence above, la hundo ĉasis la katon, kiu estis en la ĝardeno 'the dog chased the cat, which was in the garden', the relative pronoun kiu 'which' is restricted to a position after the noun 'cat'. In general, relative clauses and attributive prepositional phrases follow the noun they modify.
 
+Attributive prepositional phrases, which are dependent on nouns, include genitives (la libro de Johano 'John's book') as well as la kato en la ĝardeno 'the cat in the garden' in the example above. Their order cannot be reversed: neither *la de Johano libro nor *la en la ĝardeno kato is possible. This behavior is more restrictive than prepositional phrases which are dependent on verbs, and which can be moved around: both ĉasis en la ĝardeno and en la ĝardeno ĉasis are acceptable for 'chased in the garden'.
+
+Relative clauses are similar, in that they are attributive and are subject to the same word-order constraint, except that rather than being linked by a preposition, the two elements are linked by a relative pronoun such as kiu 'which':
+
+fuĝis la kato, kiun ĝi ĉasis 'the cat which it chased fled'
+mi vidis la hundon, kiu ĉasis la katon 'I saw the dog which chased the cat'
+Note that the noun and its adjacent relative pronoun do not agree in case. Rather, their cases depend on their relationships with their respective verbs.[34] However, they do agree in number:
+
+fuĝis la katoj, kiujn ĝi ĉasis 'the cats which it chased fled'
 Other word orders are possible, as long as the relative pronoun remains adjacent to the noun it depends on:
-:''fuĝis la kato, kiun ĉasis ĝi'' 'the cat which it chased fled'
-:''vidis mi la hundon, kiu la katon ĉasis'' 'I saw the dog which chased the cat'
 
-===Clause order===
-[[Coordinate conjunction|Coordinate clauses]] allow flexible word order, but tend to be [[iconicity|iconic]]. For example, in
-:''la hundo ĉasis la katon kaj la kato fuĝis'' 'the dog chased the cat and the cat fled',
+fuĝis la kato, kiun ĉasis ĝi 'the cat which it chased fled'
+vidis mi la hundon, kiu la katon ĉasis 'I saw the dog which chased the cat'
+
+### Clause order
+
+Coordinate clauses allow flexible word order, but tend to be iconic. For example, in
+
+la hundo ĉasis la katon kaj la kato fuĝis 'the dog chased the cat and the cat fled',
 the inference is that the cat fled after the dog started to chase it, not that the dog chased a cat which was already fleeing. For the latter reading, the clause order would be reversed:
-:''la kato fuĝis, kaj la hundo ĉasis ĝin'' 'the cat fled, and the dog chased it'
-This distinction is lost in [[subordinate clause]]s such as the relative clauses in the previous section:
-:''la hundo ĉasis la katon, kiu fuĝis'' 'the dog chased the cat(,) which fled'
+
+la kato fuĝis, kaj la hundo ĉasis ĝin 'the cat fled, and the dog chased it'
+This distinction is lost in subordinate clauses such as the relative clauses in the previous section:
+
+la hundo ĉasis la katon, kiu fuĝis 'the dog chased the cat(,) which fled'
 In written English, a comma disambiguates the two readings, but both take a comma in Esperanto.
 
-Non-relative subordinate clauses are similarly restricted. They follow the [[grammatical conjunction|conjunction]] ''ke'' 'that', as in,
-:''Mi estas certa, ke vi havos brilan sukceson'' 'I am certain that you will have a brilliant success'.
+Non-relative subordinate clauses are similarly restricted. They follow the conjunction ke 'that', as in,
 
+Mi estas certa, ke vi havos brilan sukceson 'I am certain that you will have a brilliant success'.
 
-==Non-European aspects?==
-Esperanto's vocabulary, [[syntax]], and [[semantics]] derive predominantly from [[Standard Average European]] languages. Roots are typically [[Romance languages|Latinate]] or [[Germanic languages|Germanic]] in origin. The semantics show a significant [[Slavic languages|Slavic]] influence. However, those aspects do not derive directly from Esperanto's source languages, and are generally extensions of them. It is often claimed that there are elements of the grammar which are not found in these language families.
+## Theoretical compound structures
 
-Frequently mentioned is Esperanto's [[Agglutination|agglutinative morphology]] based on invariant [[Morpheme|morphemes]], and the subsequent lack of [[ablaut]] (internal inflection of its [[root word|roots]]), which Zamenhof thought would prove alien to non-European language speakers. Ablaut is an element of all the source languages; an English example is <''song, sing, sang, sung''>''.'' However, the majority of words in all European languages inflect without ablaut, as ''<cat, cats''> and ''<walk, walked''> do in English. (This is the so-called [[strong inflection|strong]]–[[weak inflection|weak]] dichotomy.) Historically, many European languages have expanded the range of their 'weak' inflections, and Esperanto has merely taken this development closer to its logical conclusion, with the only remaining ablaut being frozen in a few sets of semantically related roots such as ''pli'', ''plej'', ''plu'' (more, most, further), ''tre'', ''tro'' (very, too much), and in the verbal morphemes ''‑as'', ''‑anta'', ''‑ata''; ''‑is'', ''‑inta'', ''‑ita''; ''‑os'', ''‑onta'', ''‑ota''; and ''‑us''.
+You can create all english tenses by combining the rules of Esperanto! These are normaly only used in literature or to show off. English native speaker often tend to overuse constructions like this, even when simpler sentences are possible.
 
-Other features often cited as being alien for a European language, such as the dedicated suffixes for different parts of speech, or the ''-o'' suffix for nouns combined with ''-a'' for adjectives and ''la'' for 'the', actually do occur.<ref>For example, the article ''la'' with a noun ending in ''-o'' in Provençal ''la fenestro'' (the window), which is identical to Esperanto ''la fenestro'', or Spanish ''la mano derecha'' (the right hand), nearly identical to Esperanto ''la mano dekstra''.</ref> More pertinent is the accusative plural in ''-jn'', which is derived through [[Morphological leveling|leveling]] of the Greek nominal–adjectival paradigm: Esperanto nominative singular ''muz'''o''''' ([[muse]]) vs. Greek ''mous'''a''''', nominative plural ''muzo'''j''''' vs. Greek ''mousa'''i''','' and accusative singular ''muzo'''n''''' vs. Greek ''mousa'''n'''.'' ([[Latin declension|Latin]] and [[Lithuanian declension|Lithuanian]] had very similar setups, with {{IPA|[j]}} in the plural and a nasal in the accusative.) Esperanto is thus ''formally'' similar to the non‑Indo‑European languages [[Hungarian language|Hungarian]] and [[Turkish language|Turkish]]—that is, it is similar in its mechanics, but not in use. None of these proposed "non-European" elements of the original Esperanto proposal were actually taken from non-European or non-Indo-European languages, and any similarities with those languages are coincidental.{{citation needed|date=April 2013}}
+#### Compound Verb Tenses (Active)
 
-[[East Asian languages]] may have had some influence on the development of Esperanto grammar after its creation. The principally cited candidate is the replacement of [[Predicate adjective|predicate adjectives]] with verbs, such as ''la ĉielo bluas'' (the sky is blue) for ''la ĉielo estas blua'' and ''mia filino belu!'' (may my daughter be beautiful!) for the ''mia filino estu bela!'' mentioned above.{{cn|date=September 2019}} However, this [[regularization (linguistics)|regularization]] of existing grammatical forms was always found in poetry; if there has been an influence of an East Asian language, it has only been in the spread of such forms, not in their origin. Such usage is not entirely unknown in Europe: Latin has an analogous ''folium [[wikt:viret|viret]]'' for ''folium viride est'' (the leaf is green) and ''avis [[wikt:rubet|rubet]]'' for ''avis rubra est'' (the bird is red).
+| Tense                       | Esperanto        | English                 |
+| --------------------------- | ---------------- | ----------------------- |
+| Pluperfect                  | mi estis vidinta | I had seen              |
+| Imperfect                   | mi estis vidanta | I was seeing            |
+| Past periphrastic future    | mi estis vidonta | I was about to see      |
+| Perfect                     | mi estas vidinta | I have seen             |
+| Progressive present         | mi estas vidanta | I am seeing             |
+| Present periphrastic future | mi estas vidonta | I am about to see       |
+| Future perfect              | mi estos vidinta | I shall have seen       |
+| Progressive future          | mi estos vidanta | I shall be seeing       |
+| Future periphrastic future  | mi estos vidonta | I shall be about to see |
+| Perfect conditional         | mi estus vidinta | I would have seen       |
+| Present conditional         | mi estus vidanta | I would be seeing       |
+| Future conditional          | mi estus vidonta | I would be about to see |
+| Perfect imperative          | estu vidinta     | be having seen          |
+| Present imperative          | estu vidanta     | be seeing               |
+| Future imperative           | estu vidonta     | be about to see         |
+| Perfect infinitive          | esti vidinta     | to be having seen       |
+| Present infinitive          | esti vidanta     | to be seeing            |
+| Future infinitive           | esti vidonta     | to be about to see      |
 
-Perhaps the best candidate for a "non-European" feature is the blurred distinction between root and [[affix]]. Esperanto derivational affixes may be used as independent roots and inflect for part of speech like other roots. This occurs only sporadically in other languages of the world. For example, ''ismo'' has an English equivalent in "[[:wiktionary:ism|an ism]]", but English has no adjectival form equivalent to Esperanto ''isma.'' For most such affixes, natural languages familiar to Europeans must use a separate lexical root.
+#### Compound Verb Tenses (Passive)
 
+| Tense                       | Esperanto       | English                     |
+| --------------------------- | --------------- | --------------------------- |
+| Pluperfect                  | mi estis vidita | I had been seen             |
+| Imperfect                   | mi estis vidata | I was being seen            |
+| Past periphrastic future    | mi estis vidota | I was about to be seen      |
+| Perfect                     | mi estas vidita | I have been seen            |
+| Progressive present         | mi estas vidata | I am being seen             |
+| Present periphrastic future | mi estas vidota | I am about to be seen       |
+| Future perfect              | mi estos vidita | I shall have been seen      |
+| Progressive future          | mi estos vidata | I shall be being seen       |
+| Future periphrastic future  | mi estos vidota | I shall be about to be seen |
+| Perfect conditional         | mi estus vidita | I would have been seen      |
+| Present conditional         | mi estus vidata | I would be being seen       |
+| Future conditional          | mi estus vidota | I would be about to be seen |
+| Perfect imperative          | estu vidita     | be having been seen         |
+| Present imperative          | estu vidata     | be being seen               |
+| Future imperative           | estu vidota     | be about to be seen         |
+| Perfect infinitive          | esti vidita     | to be having been seen      |
+| Present infinitive          | esti vidata     | to be being seen            |
+| Future infinitive           | esti vidota     | to be about to be seen      |
+
+#### Participles
+
+| Form            | Esperanto | English                |
+| --------------- | --------- | ---------------------- |
+| Perfect active  | vidinta   | having seen            |
+| Present active  | vidanta   | while seeing           |
+| Future active   | vidonta   | having seen            |
+| Perfect passive | vidita    | having been seen       |
+| Present passive | vidata    | while being seen       |
+| Future passive  | vidota    | being about to be seen |
+
+#### Adverbial Participles
+
+| Form            | Esperanto | English                |
+| --------------- | --------- | ---------------------- |
+| Perfect active  | vidinte   | having seen            |
+| Present active  | vidante   | while seeing           |
+| Future active   | vidonte   | having seen            |
+| Perfect passive | vidite    | having been seen       |
+| Present passive | vidate    | while being seen       |
+| Future passive  | vidote    | being about to be seen |
+
+#### Participial Nouns
+
+| Form           | Esperanto | English      |
+| -------------- | --------- | ------------ |
+| Perfect active | vidinto   | one who saw  |
+| Present active | vidanto   | one who sees |
+| Future active  | vid       |
+
+## Non-European aspects?
+
+Esperanto's vocabulary, syntax, and semantics derive predominantly from Standard Average European languages. Roots are typically Latinate or Germanic in origin. The semantics show a significant Slavic influence. However, those aspects do not derive directly from Esperanto's source languages, and are generally extensions of them. It is often claimed that there are elements of the grammar which are not found in these language families.
+
+Frequently mentioned is Esperanto's agglutinative morphology based on invariant morphemes, and the subsequent lack of ablaut (internal inflection of its roots), which Zamenhof thought would prove alien to non-European language speakers. Ablaut is an element of all the source languages; an English example is <song, sing, sang, sung>. However, the majority of words in all European languages inflect without ablaut, as <cat, cats> and <walk, walked> do in English. (This is the so-called strong–weak dichotomy.) Historically, many European languages have expanded the range of their 'weak' inflections, and Esperanto has merely taken this development closer to its logical conclusion, with the only remaining ablaut being frozen in a few sets of semantically related roots such as pli, plej, plu (more, most, further), tre, tro (very, too much), and in the verbal morphemes ‑as, ‑anta, ‑ata; ‑is, ‑inta, ‑ita; ‑os, ‑onta, ‑ota; and ‑us.
+
+Other features often cited as being alien for a European language, such as the dedicated suffixes for different parts of speech, or the -o suffix for nouns combined with -a for adjectives and la for 'the', actually do occur.[35] More pertinent is the accusative plural in -jn, which is derived through leveling of the Greek nominal–adjectival paradigm: Esperanto nominative singular muzo (muse) vs. Greek mousa, nominative plural muzoj vs. Greek mousai, and accusative singular muzon vs. Greek mousan. (Latin and Lithuanian had very similar setups, with [j] in the plural and a nasal in the accusative.) Esperanto is thus formally similar to the non‑Indo‑European languages Hungarian and Turkish—that is, it is similar in its mechanics, but not in use. None of these proposed "non-European" elements of the original Esperanto proposal were actually taken from non-European or non-Indo-European languages, and any similarities with those languages are coincidental.[citation needed]
+
+East Asian languages may have had some influence on the development of Esperanto grammar after its creation. The principally cited candidate is the replacement of predicate adjectives with verbs, such as la ĉielo bluas (the sky is blue) for la ĉielo estas blua and mia filino belu! (may my daughter be beautiful!) for the mia filino estu bela! mentioned above.[citation needed] However, this regularization of existing grammatical forms was always found in poetry; if there has been an influence of an East Asian language, it has only been in the spread of such forms, not in their origin. Such usage is not entirely unknown in Europe: Latin has an analogous folium viret for folium viride est (the leaf is green) and avis rubet for avis rubra est (the bird is red).
+
+Perhaps the best candidate for a "non-European" feature is the blurred distinction between root and affix. Esperanto derivational affixes may be used as independent roots and inflect for part of speech like other roots. This occurs only sporadically in other languages of the world. For example, ismo has an English equivalent in "an ism", but English has no adjectival form equivalent to Esperanto isma. For most such affixes, natural languages familiar to Europeans must use a separate lexical root.
