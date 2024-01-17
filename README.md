@@ -1,7 +1,7 @@
 # EsperantoGPT
 This is a project to create a custom Esperanto GPT for ChatGPT that has knowledge about Esperanto culture, is better at teaching Esperanto and can access specific resources such as the PIV.
 
-Test it here: https://chat.openai.com/g/g-D4jB3Ml4b-esperantogpt  
+Test it here: https://chat.openai.com/g/g-D4jB3Ml4b-esperanto-helpanto
 More on curstom GPTs: https://openai.com/blog/introducing-gpts
 
 Plan:
@@ -22,7 +22,7 @@ The [Instructions](https://github.com/parolteknologio/EsperantoGPT/blob/main/Ins
 
 External files:
 * The PDF of the [PMEG](https://bertilow.com/pmeg/elshutebla/pmeg_15.2.pdf)  (CC BY-SA 4.0)
-* The xdxf file export of the [REVO dictionary](https://github.com/revuloj/revo-fonto/releases) (curently removed again see [#1](https://github.com/parolteknologio/EsperantoGPT/issues/1))
+* The xdxf file export of the [REVO dictionary](https://github.com/revuloj/revo-fonto/releases) (GPL2) curently removed again see [#1](https://github.com/parolteknologio/EsperantoGPT/issues/1)
 * [Esperanto Etymological Dictionary](https://github.com/parolteknologio/EsperantoGPT/blob/main/knowledge/Esperanto%20Etymological%20Dictionary.txt) by András Rajki (CC0)
 
 Manually created files (todo):
