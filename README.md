@@ -7,6 +7,7 @@ ChatGPT:
 
 Huggingface Chat Assistant (still very experimental)
 * Test it here: https://hf.co/chat/assistant/65c145c565be046e86ee130f
+* Only supports [one system prompt](https://github.com/parolteknologio/EsperantoGPT/blob/main/HuggingChatSystemPrompt.md) and no knowledge files right now. 
 
 Plan:
 * create a structure to organize the files ✅
